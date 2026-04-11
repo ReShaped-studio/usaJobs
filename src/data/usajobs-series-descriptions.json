@@ -1,0 +1,417 @@
+{
+  "source": "https://help.usajobs.gov/how-to/search/filters/series",
+  "retrievedAt": "2026-04-11T22:45:23.196Z",
+  "note": "Series group names are taken from the USAJOBS Help Center page \"How to filter results by series\". Descriptions are adapted for consistency in length, voice, and clarity.",
+  "intro": {
+    "professional": "Professional occupations are positions whose primary duty requires knowledge or experience of an administrative, clerical, scientific, artistic, or technical nature and is not related to trade, craft, or manual labor work.",
+    "tradeCraftLabor": "Trade, craft or labor positions involve the performance of physical work and require knowledge or experience of a trade, craft, or manual labor nature."
+  },
+  "series": [
+    {
+      "code": "0000",
+      "slug": "0000-miscellaneous-occupations",
+      "name": "Miscellaneous Occupations",
+      "category": "professional",
+      "description": "Covers positions focused on work that does not fit other occupational groups because the duties are unique or combine multiple fields."
+    },
+    {
+      "code": "0100",
+      "slug": "0100-social-science-psychology-and-welfare",
+      "name": "Social Science, Psychology, and Welfare",
+      "category": "professional",
+      "description": "Covers positions focused on social science, psychology, social work, recreation, and public welfare or insurance programs."
+    },
+    {
+      "code": "0200",
+      "slug": "0200-human-resources-management",
+      "name": "Human Resources Management",
+      "category": "professional",
+      "description": "Covers positions focused on recruiting, staffing, employee relations, benefits, and other major areas of human resources management."
+    },
+    {
+      "code": "0300",
+      "slug": "0300-general-administrative-clerical-and-office-services",
+      "name": "General Administrative, Clerical, and Office Services",
+      "category": "professional",
+      "description": "Covers positions focused on general administrative, clerical, secretarial, office support, records, and communications work."
+    },
+    {
+      "code": "0400",
+      "slug": "0400-natural-resources-management-and-biological-sciences",
+      "name": "Natural Resources Management and Biological Sciences",
+      "category": "professional",
+      "description": "Covers positions focused on biological sciences, natural resources, soil, conservation, and related environmental management."
+    },
+    {
+      "code": "0500",
+      "slug": "0500-accounting-and-budget",
+      "name": "Accounting and Budget",
+      "category": "professional",
+      "description": "Covers positions focused on accounting, budget administration, financial management, and closely related support work."
+    },
+    {
+      "code": "0600",
+      "slug": "0600-medical-hospital-dental-and-public-health",
+      "name": "Medical, Hospital, Dental, and Public Health",
+      "category": "professional",
+      "description": "Covers positions focused on medicine, dentistry, public health, patient care, and related technical support."
+    },
+    {
+      "code": "0700",
+      "slug": "0700-veterinary-medical-science",
+      "name": "Veterinary Medical Science",
+      "category": "professional",
+      "description": "Covers positions focused on veterinary medicine, animal health, clinical services, and related technical support work."
+    },
+    {
+      "code": "0800",
+      "slug": "0800-engineering-and-architecture",
+      "name": "Engineering and Architecture",
+      "category": "professional",
+      "description": "Covers positions focused on engineering and architecture for projects, facilities, systems, structures, equipment, and materials."
+    },
+    {
+      "code": "0900",
+      "slug": "0900-legal-and-kindred",
+      "name": "Legal and Kindred",
+      "category": "professional",
+      "description": "Covers positions focused on legal analysis, legal services, case support, and closely related functions."
+    },
+    {
+      "code": "1000",
+      "slug": "1000-information-and-arts",
+      "name": "Information and Arts",
+      "category": "professional",
+      "description": "Covers positions focused on communications, public information, museums, cultural collections, and fine or applied arts."
+    },
+    {
+      "code": "1100",
+      "slug": "1100-business-and-industry",
+      "name": "Business and Industry",
+      "category": "professional",
+      "description": "Covers positions focused on business, trade, industry, regulation, property management, and commercial advisory work."
+    },
+    {
+      "code": "1200",
+      "slug": "1200-copyright-patent-and-trademark",
+      "name": "Copyright, Patent, and Trademark",
+      "category": "professional",
+      "description": "Covers positions focused on copyrights, patents, trademarks, and related scientific, technical, or legal work."
+    },
+    {
+      "code": "1300",
+      "slug": "1300-physical-sciences",
+      "name": "Physical Sciences",
+      "category": "professional",
+      "description": "Covers positions focused on the physical sciences, scientific research, and related technical support work."
+    },
+    {
+      "code": "1400",
+      "slug": "1400-library-and-archives",
+      "name": "Library and Archives",
+      "category": "professional",
+      "description": "Covers positions focused on library science, archives, records stewardship, and related technical support work."
+    },
+    {
+      "code": "1500",
+      "slug": "1500-mathematical-sciences",
+      "name": "Mathematical Sciences",
+      "category": "professional",
+      "description": "Covers positions focused on mathematics, statistics, actuarial science, and other work grounded in mathematical methods."
+    },
+    {
+      "code": "1600",
+      "slug": "1600-equipment-facilities-and-services",
+      "name": "Equipment, Facilities, and Services",
+      "category": "professional",
+      "description": "Covers positions focused on operating, maintaining, or supporting government facilities, equipment, shops, and service operations."
+    },
+    {
+      "code": "1700",
+      "slug": "1700-education",
+      "name": "Education",
+      "category": "professional",
+      "description": "Covers positions focused on education, training, instruction, curriculum support, and related educational program administration."
+    },
+    {
+      "code": "1800",
+      "slug": "1800-inspection-investigation-enforcement-and-compliance",
+      "name": "Inspection, Investigation, Enforcement, and Compliance",
+      "category": "professional",
+      "description": "Covers positions focused on inspection, investigation, enforcement, compliance, and related work involving laws or regulations."
+    },
+    {
+      "code": "1900",
+      "slug": "1900-quality-assurance-inspection-and-grading",
+      "name": "Quality Assurance, Inspection, and Grading",
+      "category": "professional",
+      "description": "Covers positions focused on quality assurance, inspection, process review, and commodity grading under official standards."
+    },
+    {
+      "code": "2000",
+      "slug": "2000-supply",
+      "name": "Supply",
+      "category": "professional",
+      "description": "Covers positions focused on supply planning, acquisition, storage, distribution, utilization, and final disposal activities."
+    },
+    {
+      "code": "2100",
+      "slug": "2100-transportation",
+      "name": "Transportation",
+      "category": "professional",
+      "description": "Covers positions focused on transportation services, transportation regulation, logistics coordination, and government transportation programs."
+    },
+    {
+      "code": "2200",
+      "slug": "2200-information-technology",
+      "name": "Information Technology",
+      "category": "professional",
+      "description": "Covers positions focused on planning, developing, delivering, securing, and supporting information technology systems and services."
+    },
+    {
+      "code": "2500",
+      "slug": "2500-wire-communications-equipment-installation-and-maintenance",
+      "name": "Wire Communications Equipment Installation and Maintenance",
+      "category": "trade-craft-labor",
+      "description": "Covers occupations involved in constructing, installing, maintaining, repairing, and testing wire communications systems and related equipment."
+    },
+    {
+      "code": "2600",
+      "slug": "2600-electronic-equipment-installation-and-maintenance",
+      "name": "Electronic Equipment Installation and Maintenance",
+      "category": "trade-craft-labor",
+      "description": "Covers occupations involved in installing, repairing, calibrating, modifying, and testing electronic equipment and integrated systems."
+    },
+    {
+      "code": "2800",
+      "slug": "2800-electrical-installation-and-maintenance",
+      "name": "Electrical Installation and Maintenance",
+      "category": "trade-craft-labor",
+      "description": "Covers occupations involved in fabricating, installing, altering, maintaining, repairing, and testing electrical systems and equipment."
+    },
+    {
+      "code": "3100",
+      "slug": "3100-fabric-and-leather-work",
+      "name": "Fabric and Leather Work",
+      "category": "trade-craft-labor",
+      "description": "Covers occupations involved in making, modifying, and repairing clothing, gear, and other items from fabric, leather, plastic, or similar materials."
+    },
+    {
+      "code": "3300",
+      "slug": "3300-instrument-work",
+      "name": "Instrument Work",
+      "category": "trade-craft-labor",
+      "description": "Covers occupations involved in building, calibrating, installing, repairing, and maintaining instruments and instrumentation systems."
+    },
+    {
+      "code": "3400",
+      "slug": "3400-machine-tool-work",
+      "name": "Machine Tool Work",
+      "category": "trade-craft-labor",
+      "description": "Covers occupations involved in operating machine tools and hand tools to make or repair metal parts, tools, and mechanisms."
+    },
+    {
+      "code": "3500",
+      "slug": "3500-general-services-and-support-work",
+      "name": "General Services and Support Work",
+      "category": "trade-craft-labor",
+      "description": "Covers occupations involved in general labor, material handling, cleaning, and basic maintenance work that requires little specialized training."
+    },
+    {
+      "code": "3600",
+      "slug": "3600-structural-and-finishing-work",
+      "name": "Structural and Finishing Work",
+      "category": "trade-craft-labor",
+      "description": "Covers occupations involved in structural and finishing work for construction, maintenance, and repair of buildings and surfaces."
+    },
+    {
+      "code": "3700",
+      "slug": "3700-metal-processing",
+      "name": "Metal Processing",
+      "category": "trade-craft-labor",
+      "description": "Covers occupations involved in processing or treating metals to change their properties or produce desired qualities."
+    },
+    {
+      "code": "3800",
+      "slug": "3800-metal-work",
+      "name": "Metal Work",
+      "category": "trade-craft-labor",
+      "description": "Covers occupations involved in shaping metal and making or repairing metal parts and equipment."
+    },
+    {
+      "code": "3900",
+      "slug": "3900-motion-picture-radio-television-and-sound-equipment-operation",
+      "name": "Motion Picture, Radio, Television, and Sound Equipment Operation",
+      "category": "trade-craft-labor",
+      "description": "Covers occupations involved in operating and making minor repairs to motion picture, radio, television, and sound equipment."
+    },
+    {
+      "code": "4000",
+      "slug": "4000-lens-and-crystal-work",
+      "name": "Lens and Crystal Work",
+      "category": "trade-craft-labor",
+      "description": "Covers occupations involved in making precision optical elements, crystal materials, and similar components through cutting, grinding, and polishing."
+    },
+    {
+      "code": "4100",
+      "slug": "4100-painting-and-paperhanging",
+      "name": "Painting and Paperhanging",
+      "category": "trade-craft-labor",
+      "description": "Covers occupations involved in painting, decorating, finishing, and paperhanging for buildings, equipment, and furnishings."
+    },
+    {
+      "code": "4200",
+      "slug": "4200-plumbing-and-pipe-fitting",
+      "name": "Plumbing and Pipe-fitting",
+      "category": "trade-craft-labor",
+      "description": "Covers occupations involved in installing, maintaining, and repairing pipelines, fixtures, and related plumbing systems."
+    },
+    {
+      "code": "4300",
+      "slug": "4300-pliable-materials-work",
+      "name": "Pliable Materials Work",
+      "category": "trade-craft-labor",
+      "description": "Covers occupations involved in shaping, forming, and repairing items made from pliable nonmetallic materials."
+    },
+    {
+      "code": "4400",
+      "slug": "4400-printing-family",
+      "name": "Printing Family",
+      "category": "trade-craft-labor",
+      "description": "Covers occupations involved in printing production, from layout and plate making to presswork and finishing."
+    },
+    {
+      "code": "4600",
+      "slug": "4600-wood-work",
+      "name": "Wood Work",
+      "category": "trade-craft-labor",
+      "description": "Covers occupations involved in building, altering, repairing, and maintaining wooden structures and wood products."
+    },
+    {
+      "code": "4700",
+      "slug": "4700-general-maintenance-and-operations-work",
+      "name": "General Maintenance and Operations Work",
+      "category": "trade-craft-labor",
+      "description": "Covers occupations involved in multi-trade maintenance, construction, repair, and operations work across buildings, grounds, utilities, or equipment."
+    },
+    {
+      "code": "4800",
+      "slug": "4800-general-equipment-maintenance",
+      "name": "General Equipment Maintenance",
+      "category": "trade-craft-labor",
+      "description": "Covers occupations involved in maintaining or repairing equipment that does not fit another specialized maintenance family."
+    },
+    {
+      "code": "5000",
+      "slug": "5000-plant-and-animal-work",
+      "name": "Plant and Animal Work",
+      "category": "trade-craft-labor",
+      "description": "Covers occupations involved in farming, groundskeeping, tree care, and the care or control of plants and animals."
+    },
+    {
+      "code": "5200",
+      "slug": "5200-miscellaneous-occupations",
+      "name": "Miscellaneous Occupations",
+      "category": "trade-craft-labor",
+      "description": "Covers occupations that do not fit another established trade, craft, labor, or maintenance family."
+    },
+    {
+      "code": "5300",
+      "slug": "5300-industrial-equipment-maintenance",
+      "name": "Industrial Equipment Maintenance",
+      "category": "trade-craft-labor",
+      "description": "Covers occupations involved in installing, maintaining, and repairing industrial machinery, production tools, and equipment."
+    },
+    {
+      "code": "5400",
+      "slug": "5400-industrial-equipment-operation",
+      "name": "Industrial Equipment Operation",
+      "category": "trade-craft-labor",
+      "description": "Covers occupations involved in operating industrial equipment and utilities used to move materials or produce services."
+    },
+    {
+      "code": "5700",
+      "slug": "5700-transportation-mobile-equipment-operation",
+      "name": "Transportation/Mobile Equipment Operation",
+      "category": "trade-craft-labor",
+      "description": "Covers occupations involved in operating transportation vehicles and other self-propelled mobile equipment, except aircraft."
+    },
+    {
+      "code": "5800",
+      "slug": "5800-transportation-mobile-equipment-maintenance",
+      "name": "Transportation/Mobile Equipment Maintenance",
+      "category": "trade-craft-labor",
+      "description": "Covers occupations involved in repairing, adjusting, and maintaining transportation and other mobile equipment, except aircraft."
+    },
+    {
+      "code": "6500",
+      "slug": "6500-ammunition-explosives-and-toxic-materials-work",
+      "name": "Ammunition, Explosives, and Toxic Materials Work",
+      "category": "trade-craft-labor",
+      "description": "Covers occupations involved in manufacturing, handling, testing, modifying, or disposing of ammunition, explosives, chemicals, and toxic materials."
+    },
+    {
+      "code": "6600",
+      "slug": "6600-armament-work",
+      "name": "Armament Work",
+      "category": "trade-craft-labor",
+      "description": "Covers occupations involved in installing, repairing, rebuilding, adjusting, modifying, and testing small arms, artillery, and related accessories."
+    },
+    {
+      "code": "7000",
+      "slug": "7000-packing-and-processing",
+      "name": "Packing and Processing",
+      "category": "trade-craft-labor",
+      "description": "Covers occupations involved in protecting, preserving, packing, and processing materials and equipment for storage or transport."
+    },
+    {
+      "code": "7300",
+      "slug": "7300-laundry-dry-cleaning-and-pressing",
+      "name": "Laundry, Dry Cleaning, and Pressing",
+      "category": "trade-craft-labor",
+      "description": "Covers occupations involved in laundering, dry cleaning, pressing, dyeing, and preparing items for delivery."
+    },
+    {
+      "code": "7400",
+      "slug": "7400-food-preparation-and-serving",
+      "name": "Food Preparation and Serving",
+      "category": "trade-craft-labor",
+      "description": "Covers occupations involved in preparing, cooking, portioning, and serving food in institutional or commercial settings."
+    },
+    {
+      "code": "7600",
+      "slug": "7600-personal-services",
+      "name": "Personal Services",
+      "category": "trade-craft-labor",
+      "description": "Covers occupations involved in grooming, beauty, and other personal services, or caring for personal effects."
+    },
+    {
+      "code": "8200",
+      "slug": "8200-fluid-systems-maintenance",
+      "name": "Fluid Systems Maintenance",
+      "category": "trade-craft-labor",
+      "description": "Covers occupations involved in repairing, modifying, assembling, and testing fluid systems and components for aircraft, missiles, and support equipment."
+    },
+    {
+      "code": "8600",
+      "slug": "8600-engine-overhaul",
+      "name": "Engine Overhaul",
+      "category": "trade-craft-labor",
+      "description": "Covers occupations involved in manufacturing, repairing, modifying, and overhauling engines and their related systems."
+    },
+    {
+      "code": "8800",
+      "slug": "8800-aircraft-overhaul",
+      "name": "Aircraft Overhaul",
+      "category": "trade-craft-labor",
+      "description": "Covers occupations involved in overhauling aircraft, including major disassembly, reassembly, inspection, maintenance, and testing."
+    },
+    {
+      "code": "9000",
+      "slug": "9000-film-processing",
+      "name": "Film Processing",
+      "category": "trade-craft-labor",
+      "description": "Covers occupations involved in processing film and preparing it for use or distribution. Excluded: work requiring specialized subject-matter knowledge or artistic ability."
+    }
+  ]
+}

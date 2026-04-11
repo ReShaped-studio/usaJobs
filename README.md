@@ -1,37 +1,66 @@
-# USAJobs — Reshaped
+# civiWork
 
-An open-source redesign of [USAJobs.gov](https://usajobs.gov), built on the [Reshaped](https://reshaped.studio) design system and powered by the [USAJobs public API](https://developer.usajobs.gov/).
+A clearer front-end for federal job discovery, informed by the [USAJobs](https://www.usajobs.gov/) public API and the civi.work product design. This app does not replace USAJobs and does not submit applications on your behalf.
 
-## Why this exists
+## Stack
 
-USAJobs is the federal government's official job board. The service works. The interface doesn't. Critical information is buried, job listings are hard to parse, and the search experience creates friction for the people who can least afford it.
+- Vue 3 + TypeScript + Vite
+- Vue Router
+- [USWDS](https://designsystem.digital.gov/) (Sass compile + static assets)
 
-This redesign is a better front-end to the same public data. It does not replace USAJobs and does not submit anything back to it.
+## Prerequisites
 
-## Objects used
+- [Node.js](https://nodejs.org/) 20+
+- [pnpm](https://pnpm.io/)
 
-Defined in the [Objects library](https://github.com/reshaped-studio/objects/objects/employment/):
+## Setup
 
-- Job Listing
-- Agency
-- Position
-- Location
-- Qualification
-- Salary Range
+```bash
+pnpm install
+```
+
+`postinstall` copies USWDS `fonts` and `img` into `public/` for local development. If assets are missing, run:
+
+```bash
+pnpm run sync-assets
+```
+
+## Develop
+
+```bash
+pnpm dev
+```
+
+## Build
+
+```bash
+pnpm run build
+pnpm run preview
+```
+
+## Environment
+
+Copy [.env.example](.env.example) to `.env` and set:
+
+- **`USAJOBS_API_KEY`** — from [developer.usajobs.gov](https://developer.usajobs.gov/)
+- **`USAJOBS_USER_AGENT`** — a contact email (required by the API)
+
+These variables are read **only by the Vite dev server** when proxying `GET /api/usajobs` to `https://data.usajobs.gov/api/search`, so the API key is not exposed in the client bundle. The home page uses live `SearchResultCountAll` values when the proxy succeeds; otherwise it falls back to static mock counts.
+
+**Production:** `pnpm build` + `pnpm preview` do not run the dev proxy. Serve the app behind a reverse proxy or serverless route that forwards `/api/usajobs` to `https://data.usajobs.gov/api/search` with the same headers, or use a small backend-for-frontend.
+
+## Project layout
+
+- `src/components/civi/` — Reusable product UI (built **component-by-component**): wordmark, brand block, header nav, header search, composed `CiviHeader` (Figma Header `36:1856`)
+- `src/components/home/` — Page sections (hero, browse cards) until split further
+- `src/constants/navigation.ts` — Primary nav items shared by the header
+- `src/styles/civi-tokens.css` — Shared CSS variables for civi surfaces
+- `src/data/` — Mock data for the multi-object landing page
+- `src/api/usajobs/` — USAJobs Search client (same-origin `/api/usajobs` proxy in dev)
+- `src/composables/` — `useHomeBrowseCounts` for live open-position counts on the home page
+- `src/router/` — App routes (stub list pages for agencies, series, locations)
+- `research/` — Product and IA research (orca, etc.)
 
 ## Status
 
-- [ ] Audit
-- [ ] User research
-- [ ] Object definitions
-- [ ] Design
-- [ ] Build
-- [ ] Launch
-
-## Running locally
-
-You will need a USAJobs API key. See [SETUP.md](./SETUP.md) for instructions.
-
----
-
-Part of [Reshaped](https://reshaped.studio)
+See [design/decisions.md](design/decisions.md) for recorded technical decisions.

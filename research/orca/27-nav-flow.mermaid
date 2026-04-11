@@ -1,0 +1,65 @@
+flowchart TD
+    %% Entry Points
+    HOME["🏠 Homepage\n―――――――――\nSearch bar\nBrowse cards"]
+    DASH["📋 Dashboard\n―――――――――\nSaved jobs\nFollowed agencies\nFollowed series"]
+    DIRECT["🔗 Direct link\nexternal / email alert"]
+
+    %% Primary Nav — List Pages
+    JL_LIST["Jobs List\n(search results)"]
+    AG_LIST["Agencies List"]
+    OS_LIST["Series List"]
+    LOC_LIST["Locations List"]
+
+    %% Detail Pages
+    JL_DET["📄 Job Listing Detail\n―――――――――――――――\n Title · Grade · Salary\nDuties · Requirements\n Apply · Save"]
+    AG_DET["🏛 Agency Detail\n―――――――――――――\nSeal · Mission\nOpen Jobs · Locations\nSeries pills\nBrowse · Follow"]
+    OS_DET["📚 Series Detail\n―――――――――――――\nCode · Grade ladder\nOpen Jobs\nAgencies Hiring\nSalary Range\nBrowse · Follow"]
+    LOC_DET["📍 Location Detail\n―――――――――――――\nName · Remote flag\nOpen Jobs\nBrowse"]
+
+    %% Leaf
+    APPLY["↗ Apply\n(external site)"]
+
+    %% Entry point connections
+    HOME --> JL_LIST
+    HOME --> AG_LIST
+    HOME --> OS_LIST
+    HOME --> LOC_LIST
+    DASH --> JL_DET
+    DASH --> AG_DET
+    DASH --> OS_DET
+    DIRECT --> JL_DET
+
+    %% List → Detail
+    JL_LIST --> JL_DET
+    AG_LIST --> AG_DET
+    OS_LIST --> OS_DET
+    LOC_LIST --> LOC_DET
+
+    %% Job Listing Detail → other objects
+    JL_DET --> AG_DET
+    JL_DET --> OS_DET
+    JL_DET --> LOC_DET
+    JL_DET --> APPLY
+
+    %% Agency Detail → other objects
+    AG_DET --> JL_DET
+    AG_DET --> LOC_DET
+    AG_DET -->|"series pills"| OS_DET
+
+    %% Series Detail → other objects
+    OS_DET --> JL_DET
+    OS_DET --> AG_DET
+
+    %% Location Detail → Job Listings
+    LOC_DET --> JL_DET
+
+    %% Styling
+    classDef entry fill:#e8f0fe,stroke:#4a7fcb,color:#1a3a6b
+    classDef list fill:#f5f5f5,stroke:#aaa,color:#333
+    classDef detail fill:#fff,stroke:#4a7fcb,color:#111,stroke-width:2px
+    classDef leaf fill:#ffeeba,stroke:#e6a817,color:#5a3e00
+
+    class HOME,DASH,DIRECT entry
+    class JL_LIST,AG_LIST,OS_LIST,LOC_LIST list
+    class JL_DET,AG_DET,OS_DET,LOC_DET detail
+    class APPLY leaf

@@ -1,0 +1,2600 @@
+{
+  "source": "https://www.usa.gov/",
+  "directoryStyleExample": "https://www.usa.gov/agencies/u-s-department-of-energy",
+  "retrievedAt": "2026-04-11T21:59:32.363Z",
+  "note": "Names are taken from USA.gov federal directory pages. Descriptions are adapted for consistency in length, voice, and clarity.",
+  "agencies": [
+    {
+      "slug": "administration-for-children-and-families",
+      "url": "https://www.usa.gov/agencies/administration-for-children-and-families",
+      "name": "Administration for Children and Families (ACF)",
+      "description": "The Administration for Children and Families funds state, territorial, local, and tribal partners to deliver income assistance, child support, Head Start, child welfare, and related services that strengthen children and families."
+    },
+    {
+      "slug": "administration-for-community-living",
+      "url": "https://www.usa.gov/agencies/administration-for-community-living",
+      "name": "Administration for Community Living (ACL)",
+      "description": "The Administration for Community Living leads federal efforts to support older adults and people with disabilities and to improve access to health care and long-term services."
+    },
+    {
+      "slug": "administration-for-native-americans",
+      "url": "https://www.usa.gov/agencies/administration-for-native-americans",
+      "name": "Administration for Native Americans (ANA)",
+      "description": "The Administration for Native Americans promotes economic and social self-sufficiency and cultural preservation for Native communities through grants, training, and technical assistance."
+    },
+    {
+      "slug": "administrative-conference-of-the-united-states",
+      "url": "https://www.usa.gov/agencies/administrative-conference-of-the-united-states",
+      "name": "Administrative Conference of the United States (ACUS)",
+      "description": "The Administrative Conference of the United States is an independent agency that studies federal administrative procedure and recommends improvements to agencies and Congress."
+    },
+    {
+      "slug": "administrative-office-of-the-u-s-courts",
+      "url": "https://www.usa.gov/agencies/administrative-office-of-the-u-s-courts",
+      "name": "Administrative Office of the U.S. Courts",
+      "description": "The Administrative Office of the U.S. Courts provides administrative, budgetary, statistical, and management services that support the federal courts as a separate branch of government."
+    },
+    {
+      "slug": "advisory-council-on-historic-preservation",
+      "url": "https://www.usa.gov/agencies/advisory-council-on-historic-preservation",
+      "name": "Advisory Council on Historic Preservation (ACHP)",
+      "description": "The Advisory Council on Historic Preservation advises policymakers on historic preservation issues and promotes the stewardship of historic properties across the United States."
+    },
+    {
+      "slug": "african-development-foundation",
+      "url": "https://www.usa.gov/agencies/african-development-foundation",
+      "name": "African Development Foundation (USADF)",
+      "description": "The African Development Foundation awards grants that strengthen community organizations and small enterprises serving underserved and marginalized populations in Africa."
+    },
+    {
+      "slug": "agency-for-healthcare-research-and-quality",
+      "url": "https://www.usa.gov/agencies/agency-for-healthcare-research-and-quality",
+      "name": "Agency for Healthcare Research and Quality (AHRQ)",
+      "description": "The Agency for Healthcare Research and Quality funds research and evidence to improve the quality, safety, efficiency, and effectiveness of health care for all Americans."
+    },
+    {
+      "slug": "agency-for-toxic-substances-and-disease-registry",
+      "url": "https://www.usa.gov/agencies/agency-for-toxic-substances-and-disease-registry",
+      "name": "Agency for Toxic Substances and Disease Registry (ATSDR)",
+      "description": "The Agency for Toxic Substances and Disease Registry assesses hazardous substance risks, responds to exposures, and works to prevent harmful effects on public health."
+    },
+    {
+      "slug": "agricultural-marketing-service",
+      "url": "https://www.usa.gov/agencies/agricultural-marketing-service",
+      "name": "Agricultural Marketing Service (AMS)",
+      "description": "The Agricultural Marketing Service supports fair, efficient markets for U.S. agricultural products through grading, standards, market news, and related programs."
+    },
+    {
+      "slug": "agricultural-research-service",
+      "url": "https://www.usa.gov/agencies/agricultural-research-service",
+      "name": "Agricultural Research Service (ARS)",
+      "description": "The Agricultural Research Service conducts scientific research to solve agricultural problems affecting food production, natural resources, nutrition, and rural economies."
+    },
+    {
+      "slug": "alcohol-and-tobacco-tax-and-trade-bureau",
+      "url": "https://www.usa.gov/agencies/alcohol-and-tobacco-tax-and-trade-bureau",
+      "name": "Alcohol and Tobacco Tax and Trade Bureau (TTB)",
+      "description": "The Alcohol and Tobacco Tax and Trade Bureau collects federal excise taxes and regulates the production, importation, and distribution of alcohol, tobacco, firearms, and ammunition."
+    },
+    {
+      "slug": "american-battle-monuments-commission",
+      "url": "https://www.usa.gov/agencies/american-battle-monuments-commission",
+      "name": "American Battle Monuments Commission (ABMC)",
+      "description": "The American Battle Monuments Commission constructs, operates, and maintains overseas military cemeteries and memorials honoring U.S. armed forces, principally from the World Wars."
+    },
+    {
+      "slug": "americorps",
+      "url": "https://www.usa.gov/agencies/americorps",
+      "name": "AmeriCorps",
+      "description": "AmeriCorps is an independent federal agency that administers national service programs placing members with nonprofit and community partners to meet education, economic, health, and disaster needs."
+    },
+    {
+      "slug": "americorps-seniors",
+      "url": "https://www.usa.gov/agencies/americorps-seniors",
+      "name": "AmeriCorps Seniors",
+      "description": "AmeriCorps Seniors administers national service programs for volunteers age 55 and older in education, elder care, disaster response, and other community priorities."
+    },
+    {
+      "slug": "animal-and-plant-health-inspection-service",
+      "url": "https://www.usa.gov/agencies/animal-and-plant-health-inspection-service",
+      "name": "Animal and Plant Health Inspection Service (APHIS)",
+      "description": "The Animal and Plant Health Inspection Service protects U.S. agriculture from pests and diseases, regulates biotechnology, administers the Animal Welfare Act, and manages wildlife damage."
+    },
+    {
+      "slug": "antitrust-division",
+      "url": "https://www.usa.gov/agencies/antitrust-division",
+      "name": "Antitrust Division",
+      "description": "The Antitrust Division enforces federal antitrust laws and promotes competitive markets through civil and criminal enforcement, merger review, and policy guidance."
+    },
+    {
+      "slug": "appalachian-regional-commission",
+      "url": "https://www.usa.gov/agencies/appalachian-regional-commission",
+      "name": "Appalachian Regional Commission (ARC)",
+      "description": "The Appalachian Regional Commission is a federal-state partnership that invests in sustainable economic and community development across the Appalachian region."
+    },
+    {
+      "slug": "architect-of-the-capitol",
+      "url": "https://www.usa.gov/agencies/architect-of-the-capitol",
+      "name": "Architect of the Capitol",
+      "description": "The Architect of the Capitol maintains the Capitol, Capitol Visitor Center, congressional office buildings, the Supreme Court, the Library of Congress, the Botanic Garden, and Capitol Grounds."
+    },
+    {
+      "slug": "armed-forces-retirement-home",
+      "url": "https://www.usa.gov/agencies/armed-forces-retirement-home",
+      "name": "Armed Forces Retirement Home (AFRH)",
+      "description": "The Armed Forces Retirement Home operates federally funded retirement communities in Washington, D.C., and Gulfport for eligible retired enlisted members and certain retired officers."
+    },
+    {
+      "slug": "arms-control-and-international-security",
+      "url": "https://www.usa.gov/agencies/arms-control-and-international-security",
+      "name": "Arms Control and International Security",
+      "description": "The Under Secretary of State for Arms Control and International Security advises the President and Secretary of State on arms control, nonproliferation, disarmament, and related security policy."
+    },
+    {
+      "slug": "bankruptcy-courts",
+      "url": "https://www.usa.gov/agencies/bankruptcy-courts",
+      "name": "Bankruptcy Courts",
+      "description": "Each federal judicial district maintains bankruptcy courts that apply the Bankruptcy Code so eligible debtors may reorganize or liquidate and obtain discharge consistent with creditor rights."
+    },
+    {
+      "slug": "barry-m-goldwater-scholarship-and-excellence-in-education-foundation",
+      "url": "https://www.usa.gov/agencies/barry-m-goldwater-scholarship-and-excellence-in-education-foundation",
+      "name": "Barry M. Goldwater Scholarship and Excellence in Education Foundation",
+      "description": "The Barry M. Goldwater Scholarship and Excellence in Education Foundation awards scholarships to undergraduates who intend to pursue careers in science, mathematics, and engineering."
+    },
+    {
+      "slug": "bonneville-power-administration",
+      "url": "https://www.usa.gov/agencies/bonneville-power-administration",
+      "name": "Bonneville Power Administration (BPA)",
+      "description": "The Bonneville Power Administration markets federal hydropower from the Columbia River system and transmits electricity across the Pacific Northwest."
+    },
+    {
+      "slug": "bureau-of-alcohol-tobacco-firearms-and-explosives",
+      "url": "https://www.usa.gov/agencies/bureau-of-alcohol-tobacco-firearms-and-explosives",
+      "name": "Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)",
+      "description": "The Bureau of Alcohol, Tobacco, Firearms and Explosives enforces federal laws governing firearms, explosives, arson, and the lawful trade in alcohol and tobacco products."
+    },
+    {
+      "slug": "bureau-of-consular-affairs",
+      "url": "https://www.usa.gov/agencies/bureau-of-consular-affairs",
+      "name": "Bureau of Consular Affairs",
+      "description": "The Bureau of Consular Affairs issues passports and visas, sets consular policy, and directs overseas posts in assisting U.S. citizens abroad and managing immigration documentation."
+    },
+    {
+      "slug": "bureau-of-economic-analysis",
+      "url": "https://www.usa.gov/agencies/bureau-of-economic-analysis",
+      "name": "Bureau of Economic Analysis (BEA)",
+      "description": "The Bureau of Economic Analysis produces official economic accounts that measure national output, income, industry value added, and regional activity for policymakers and the public."
+    },
+    {
+      "slug": "bureau-of-engraving-and-printing",
+      "url": "https://www.usa.gov/agencies/bureau-of-engraving-and-printing",
+      "name": "Bureau of Engraving and Printing (BEP)",
+      "description": "The Bureau of Engraving and Printing designs and manufactures Federal Reserve notes and supports currency operations to meet public demand for U.S. currency."
+    },
+    {
+      "slug": "bureau-of-indian-affairs",
+      "url": "https://www.usa.gov/agencies/bureau-of-indian-affairs",
+      "name": "Bureau of Indian Affairs (BIA)",
+      "description": "The Bureau of Indian Affairs carries out trust responsibilities and programs that advance tribal self-determination, economic opportunity, and the well-being of American Indians and Alaska Natives."
+    },
+    {
+      "slug": "bureau-of-industry-and-security",
+      "url": "https://www.usa.gov/agencies/bureau-of-industry-and-security",
+      "name": "Bureau of Industry and Security (BIS)",
+      "description": "The Bureau of Industry and Security advances U.S. economic and technology interests through export controls, treaty compliance, and enforcement that protect national security."
+    },
+    {
+      "slug": "bureau-of-international-labor-affairs",
+      "url": "https://www.usa.gov/agencies/bureau-of-international-labor-affairs",
+      "name": "Bureau of International Labor Affairs (ILAB)",
+      "description": "The Bureau of International Labor Affairs promotes decent work abroad, combats forced and child labor, and integrates labor standards into U.S. trade and foreign assistance policy."
+    },
+    {
+      "slug": "bureau-of-justice-statistics",
+      "url": "https://www.usa.gov/agencies/bureau-of-justice-statistics",
+      "name": "Bureau of Justice Statistics (BJS)",
+      "description": "The Bureau of Justice Statistics is the principal federal statistical agency for crime, victims, law enforcement, courts, corrections, and related components of the justice system."
+    },
+    {
+      "slug": "bureau-of-labor-statistics",
+      "url": "https://www.usa.gov/agencies/bureau-of-labor-statistics",
+      "name": "Bureau of Labor Statistics (BLS)",
+      "description": "The Bureau of Labor Statistics measures employment, unemployment, wages, productivity, workplace safety, and consumer and producer prices for public and private decision-making."
+    },
+    {
+      "slug": "bureau-of-land-management",
+      "url": "https://www.usa.gov/agencies/bureau-of-land-management",
+      "name": "Bureau of Land Management (BLM)",
+      "description": "The Bureau of Land Management stewards public lands for multiple uses, including recreation, grazing, wildlife habitat, and responsible mineral and renewable energy development."
+    },
+    {
+      "slug": "bureau-of-ocean-energy-management",
+      "url": "https://www.usa.gov/agencies/bureau-of-ocean-energy-management",
+      "name": "Bureau of Ocean Energy Management (BOEM)",
+      "description": "The Bureau of Ocean Energy Management regulates offshore energy and mineral development on the Outer Continental Shelf to balance resource development with environmental protection."
+    },
+    {
+      "slug": "bureau-of-reclamation",
+      "url": "https://www.usa.gov/agencies/bureau-of-reclamation",
+      "name": "Bureau of Reclamation",
+      "description": "The Bureau of Reclamation operates dams, reservoirs, and hydroelectric facilities, mainly in the West, to deliver water and power for irrigation, municipalities, and other authorized purposes."
+    },
+    {
+      "slug": "bureau-of-safety-and-environmental-enforcement",
+      "url": "https://www.usa.gov/agencies/bureau-of-safety-and-environmental-enforcement",
+      "name": "Bureau of Safety and Environmental Enforcement (BSEE)",
+      "description": "The Bureau of Safety and Environmental Enforcement regulates offshore oil and gas operations to protect worker safety, prevent spills, and conserve offshore resources."
+    },
+    {
+      "slug": "bureau-of-the-fiscal-service",
+      "url": "https://www.usa.gov/agencies/bureau-of-the-fiscal-service",
+      "name": "Bureau of the Fiscal Service",
+      "description": "The Bureau of the Fiscal Service disburses federal payments, collects revenue, manages borrowing, and provides central accounting, reporting, and payment services for the Department of the Treasury."
+    },
+    {
+      "slug": "bureau-of-transportation-statistics",
+      "url": "https://www.usa.gov/agencies/bureau-of-transportation-statistics",
+      "name": "Bureau of Transportation Statistics (BTS)",
+      "description": "The Bureau of Transportation Statistics compiles and publishes national statistics on freight, passengers, infrastructure, safety, energy use, and the environmental effects of transportation."
+    },
+    {
+      "slug": "center-for-nutrition-policy-and-promotion",
+      "url": "https://www.usa.gov/agencies/center-for-nutrition-policy-and-promotion",
+      "name": "Center for Nutrition Policy and Promotion (CNPP)",
+      "description": "The Center for Nutrition Policy and Promotion develops federal dietary guidance and consumer tools that translate nutrition science into practical eating patterns for Americans."
+    },
+    {
+      "slug": "center-for-parent-information-and-resources",
+      "url": "https://www.usa.gov/agencies/center-for-parent-information-and-resources",
+      "name": "Center for Parent Information and Resources (CPIR)",
+      "description": "The Center for Parent Information and Resources provides federally supported information and technical assistance on special education for families and professionals serving children and youth with disabilities."
+    },
+    {
+      "slug": "centers-for-disease-control-and-prevention",
+      "url": "https://www.usa.gov/agencies/centers-for-disease-control-and-prevention",
+      "name": "Centers for Disease Control and Prevention (CDC)",
+      "description": "The Centers for Disease Control and Prevention leads national public health protection through disease surveillance, prevention programs, health promotion, and preparedness for health emergencies."
+    },
+    {
+      "slug": "centers-for-medicare-and-medicaid-services",
+      "url": "https://www.usa.gov/agencies/centers-for-medicare-and-medicaid-services",
+      "name": "Centers for Medicare and Medicaid Services (CMS)",
+      "description": "The Centers for Medicare and Medicaid Services administers Medicare, Medicaid, the Children’s Health Insurance Program, and related initiatives to expand coverage and improve health care quality and value."
+    },
+    {
+      "slug": "central-intelligence-agency",
+      "url": "https://www.usa.gov/agencies/central-intelligence-agency",
+      "name": "Central Intelligence Agency (CIA)",
+      "description": "The Central Intelligence Agency collects and analyzes foreign intelligence on threats and developments abroad to inform the President, senior policymakers, and other national security customers."
+    },
+    {
+      "slug": "chief-acquisition-officers-council",
+      "url": "https://www.usa.gov/agencies/chief-acquisition-officers-council",
+      "name": "Chief Acquisition Officers Council (CAOC)",
+      "description": "The Chief Acquisition Officers Council convenes agency acquisition executives to monitor performance, share practices, and strengthen planning, competition, and management of federal acquisitions."
+    },
+    {
+      "slug": "chief-financial-officers-council",
+      "url": "https://www.usa.gov/agencies/chief-financial-officers-council",
+      "name": "Chief Financial Officers Council (CFO)",
+      "description": "The Chief Financial Officers Council advances sound financial management across the federal government through policy development, standards, internal controls, and financial reporting improvements."
+    },
+    {
+      "slug": "chief-human-capital-officers-council",
+      "url": "https://www.usa.gov/agencies/chief-human-capital-officers-council",
+      "name": "Chief Human Capital Officers (CHCO) Council",
+      "description": "The Chief Human Capital Officers Council advises on human resources legislation and promotes effective, modern human capital management and information sharing across federal agencies."
+    },
+    {
+      "slug": "chief-information-officers-council",
+      "url": "https://www.usa.gov/agencies/chief-information-officers-council",
+      "name": "Chief Information Officers Council",
+      "description": "The Chief Information Officers Council is the principal interagency forum for federal information technology management, cybersecurity, and digital services policy."
+    },
+    {
+      "slug": "citizens-stamp-advisory-committee",
+      "url": "https://www.usa.gov/agencies/citizens-stamp-advisory-committee",
+      "name": "Citizens' Stamp Advisory Committee (CSAC)",
+      "description": "The Citizens’ Stamp Advisory Committee evaluates stamp proposals and recommends subjects of broad national interest and educational value to the Postmaster General."
+    },
+    {
+      "slug": "civil-rights-division-department-of-justice",
+      "url": "https://www.usa.gov/agencies/civil-rights-division-department-of-justice",
+      "name": "Civil Rights Division, Department of Justice",
+      "description": "The Civil Rights Division enforces federal statutes that prohibit discrimination based on race, color, religion, sex, disability, and national origin across civil and criminal matters."
+    },
+    {
+      "slug": "commission-on-civil-rights",
+      "url": "https://www.usa.gov/agencies/commission-on-civil-rights",
+      "name": "Commission on Civil Rights (USCCR)",
+      "description": "The U.S. Commission on Civil Rights is an independent, bipartisan agency that investigates complaints and reports on federal civil rights enforcement and equal protection of the laws."
+    },
+    {
+      "slug": "commission-on-presidential-scholars",
+      "url": "https://www.usa.gov/agencies/commission-on-presidential-scholars",
+      "name": "Commission on Presidential Scholars",
+      "description": "The Commission on Presidential Scholars selects and honors outstanding graduating high school seniors for academic achievement, accomplishment in the arts, and commitment to public service."
+    },
+    {
+      "slug": "commission-on-security-and-cooperation-in-europe-helsinki-commission",
+      "url": "https://www.usa.gov/agencies/commission-on-security-and-cooperation-in-europe-helsinki-commission",
+      "name": "Commission on Security and Cooperation in Europe (Helsinki Commission)",
+      "description": "The Commission on Security and Cooperation in Europe monitors compliance with the Helsinki Final Act and other commitments of the Organization for Security and Co-operation in Europe."
+    },
+    {
+      "slug": "committee-on-foreign-investment-in-the-united-states",
+      "url": "https://www.usa.gov/agencies/committee-on-foreign-investment-in-the-united-states",
+      "name": "Committee on Foreign Investment in the United States (CFIUS)",
+      "description": "The Committee on Foreign Investment in the United States reviews certain foreign investments in U.S. businesses for national security risk and recommends mitigation or enforcement action when warranted."
+    },
+    {
+      "slug": "community-oriented-policing-services",
+      "url": "https://www.usa.gov/agencies/community-oriented-policing-services",
+      "name": "Community Oriented Policing Services (COPS)",
+      "description": "The Office of Community Oriented Policing Services advances community policing through grants, training, and technical assistance to state, local, tribal, and campus law enforcement agencies."
+    },
+    {
+      "slug": "congressional-budget-office",
+      "url": "https://www.usa.gov/agencies/congressional-budget-office",
+      "name": "Congressional Budget Office (CBO)",
+      "description": "The Congressional Budget Office supports the congressional budget process with independent, nonpartisan budget and economic analysis, including cost estimates for pending legislation."
+    },
+    {
+      "slug": "congressional-research-service",
+      "url": "https://www.usa.gov/agencies/congressional-research-service",
+      "name": "Congressional Research Service (CRS)",
+      "description": "The Congressional Research Service provides timely, objective, authoritative, and confidential legislative research and analysis to committees and Members throughout the legislative process."
+    },
+    {
+      "slug": "consumer-financial-protection-bureau",
+      "url": "https://www.usa.gov/agencies/consumer-financial-protection-bureau",
+      "name": "Consumer Financial Protection Bureau (CFPB)",
+      "description": "The Consumer Financial Protection Bureau enforces federal consumer financial laws, supervises large banks and many nonbank financial companies, and promotes clear, competitive markets for household credit and payments."
+    },
+    {
+      "slug": "consumer-product-safety-commission",
+      "url": "https://www.usa.gov/agencies/consumer-product-safety-commission",
+      "name": "Consumer Product Safety Commission (CPSC)",
+      "description": "The Consumer Product Safety Commission protects the public from unreasonable risks of injury or death from consumer products through mandatory standards, recalls, compliance, and education."
+    },
+    {
+      "slug": "coordinating-council-on-juvenile-justice-and-delinquency-prevention",
+      "url": "https://www.usa.gov/agencies/coordinating-council-on-juvenile-justice-and-delinquency-prevention",
+      "name": "Coordinating Council on Juvenile Justice and Delinquency Prevention",
+      "description": "The Coordinating Council on Juvenile Justice and Delinquency Prevention coordinates federal agencies on prevention, intervention, and system improvement for youth in or at risk of entering justice systems."
+    },
+    {
+      "slug": "copyright-office",
+      "url": "https://www.usa.gov/agencies/copyright-office",
+      "name": "Copyright Office",
+      "description": "The Copyright Office administers the national copyright registration system, maintains public records of copyright ownership, and advises Congress, agencies, courts, and the public on copyright matters."
+    },
+    {
+      "slug": "council-of-economic-advisers",
+      "url": "https://www.usa.gov/agencies/council-of-economic-advisers",
+      "name": "Council of Economic Advisers (CEA)",
+      "description": "The Council of Economic Advisers analyzes economic conditions and advises the President on domestic and international economic policy based on evidence and professional economic research."
+    },
+    {
+      "slug": "council-of-the-inspectors-general-on-integrity-and-efficiency",
+      "url": "https://www.usa.gov/agencies/council-of-the-inspectors-general-on-integrity-and-efficiency",
+      "name": "Council of the Inspectors General on Integrity and Efficiency (CIGIE)",
+      "description": "The Council of the Inspectors General on Integrity and Efficiency strengthens the federal Inspector General community and promotes integrity, economy, and effectiveness across government programs."
+    },
+    {
+      "slug": "council-on-environmental-quality",
+      "url": "https://www.usa.gov/agencies/council-on-environmental-quality",
+      "name": "Council on Environmental Quality (CEQ)",
+      "description": "The Council on Environmental Quality coordinates federal environmental policy, oversees implementation of the National Environmental Policy Act, and advances sustainability across the executive branch."
+    },
+    {
+      "slug": "court-of-appeals-for-the-armed-forces",
+      "url": "https://www.usa.gov/agencies/court-of-appeals-for-the-armed-forces",
+      "name": "Court of Appeals for the Armed Forces",
+      "description": "The Court of Appeals for the Armed Forces reviews courts-martial worldwide for persons subject to the Uniform Code of Military Justice when appeals are certified or granted."
+    },
+    {
+      "slug": "court-of-appeals-for-the-federal-circuit",
+      "url": "https://www.usa.gov/agencies/court-of-appeals-for-the-federal-circuit",
+      "name": "Court of Appeals for the Federal Circuit",
+      "description": "The Court of Appeals for the Federal Circuit exercises nationwide jurisdiction over appeals in patent cases, specified money claims against the United States, and certain agency decisions."
+    },
+    {
+      "slug": "court-of-federal-claims",
+      "url": "https://www.usa.gov/agencies/court-of-federal-claims",
+      "name": "Court of Federal Claims",
+      "description": "The U.S. Court of Federal Claims hears monetary claims against the United States founded upon the Constitution, federal statutes, executive regulations, or express or implied contract."
+    },
+    {
+      "slug": "court-of-international-trade",
+      "url": "https://www.usa.gov/agencies/court-of-international-trade",
+      "name": "Court of International Trade",
+      "description": "The U.S. Court of International Trade adjudicates civil actions arising under federal customs and international trade laws, including classification, valuation, and trade remedies."
+    },
+    {
+      "slug": "court-services-and-offender-supervision-agency-for-the-district-of-columbia",
+      "url": "https://www.usa.gov/agencies/court-services-and-offender-supervision-agency-for-the-district-of-columbia",
+      "name": "Court Services and Offender Supervision Agency for the District of Columbia (CSOSA)",
+      "description": "The Court Services and Offender Supervision Agency supervises adults on parole, probation, or supervised release and provides pretrial services for the District of Columbia’s criminal justice system."
+    },
+    {
+      "slug": "cybersecurity-and-infrastructure-security-agency",
+      "url": "https://www.usa.gov/agencies/cybersecurity-and-infrastructure-security-agency",
+      "name": "Cybersecurity and Infrastructure Security Agency (CISA)",
+      "description": "The Cybersecurity and Infrastructure Security Agency leads national efforts to understand, manage, and reduce risk to cyber systems and critical infrastructure from physical and digital threats."
+    },
+    {
+      "slug": "defense-advanced-research-projects-agency",
+      "url": "https://www.usa.gov/agencies/defense-advanced-research-projects-agency",
+      "name": "Defense Advanced Research Projects Agency (DARPA)",
+      "description": "The Defense Advanced Research Projects Agency leads Department of Defense research and development that pursues breakthrough technologies for national security and transfers results where appropriate."
+    },
+    {
+      "slug": "defense-commissary-agency",
+      "url": "https://www.usa.gov/agencies/defense-commissary-agency",
+      "name": "Defense Commissary Agency",
+      "description": "The Defense Commissary Agency operates a worldwide network of commissaries that sell groceries and household goods at reduced cost to members of the Armed Forces and their families."
+    },
+    {
+      "slug": "defense-contract-audit-agency",
+      "url": "https://www.usa.gov/agencies/defense-contract-audit-agency",
+      "name": "Defense Contract Audit Agency (DCAA)",
+      "description": "The Defense Contract Audit Agency performs contract audits and related financial advisory services so the Department of Defense and other clients can negotiate, administer, and settle contracts soundly."
+    },
+    {
+      "slug": "defense-contract-management-agency",
+      "url": "https://www.usa.gov/agencies/defense-contract-management-agency",
+      "name": "Defense Contract Management Agency (DCMA)",
+      "description": "The Defense Contract Management Agency administers contract oversight for the Department of Defense, NASA, and other partners so supplies and services are delivered on time, at projected cost, and as specified."
+    },
+    {
+      "slug": "defense-counterintelligence-and-security-agency",
+      "url": "https://www.usa.gov/agencies/defense-counterintelligence-and-security-agency",
+      "name": "Defense Counterintelligence and Security Agency (DCSA)",
+      "description": "The Defense Counterintelligence and Security Agency advances personnel security, industrial security, and counterintelligence so the Department of Defense workforce, technologies, and supply chains stay trustworthy."
+    },
+    {
+      "slug": "defense-finance-and-accounting-service",
+      "url": "https://www.usa.gov/agencies/defense-finance-and-accounting-service",
+      "name": "Defense Finance and Accounting Service (DFAS)",
+      "description": "The Defense Finance and Accounting Service pays military members, civilians, vendors, and contractors and supplies financial management information that supports Department of Defense decisions."
+    },
+    {
+      "slug": "defense-finance-and-accounting-service-debt-and-claims-management-center",
+      "url": "https://www.usa.gov/agencies/defense-finance-and-accounting-service-debt-and-claims-management-center",
+      "name": "Defense Finance and Accounting Service Debt and Claims Management Center",
+      "description": "The Debt and Claims Management Center collects delinquent debts owed to the Department of Defense and resolves claims involving former military members and civilian employees."
+    },
+    {
+      "slug": "defense-health-agency",
+      "url": "https://www.usa.gov/agencies/defense-health-agency",
+      "name": "Defense Health Agency (DHA)",
+      "description": "The Defense Health Agency leads the military health system, integrates care and readiness programs, and supports the TRICARE benefit for eligible uniformed personnel, retirees, and families."
+    },
+    {
+      "slug": "defense-information-systems-agency",
+      "url": "https://www.usa.gov/agencies/defense-information-systems-agency",
+      "name": "Defense Information Systems Agency (DISA)",
+      "description": "The Defense Information Systems Agency provides command, control, and information infrastructure, including networks and communications, that connect Department of Defense leaders through the field force worldwide."
+    },
+    {
+      "slug": "defense-intelligence-agency",
+      "url": "https://www.usa.gov/agencies/defense-intelligence-agency",
+      "name": "Defense Intelligence Agency (DIA)",
+      "description": "The Defense Intelligence Agency collects, analyzes, and disseminates defense intelligence so warfighters, planners, and national-security decision makers understand foreign military capabilities and intentions."
+    },
+    {
+      "slug": "defense-logistics-agency",
+      "url": "https://www.usa.gov/agencies/defense-logistics-agency",
+      "name": "Defense Logistics Agency (DLA)",
+      "description": "The Defense Logistics Agency supplies logistics, acquisition, and technical support, including fuel, spare parts, and materiel, to U.S. military services, other federal agencies, and allied partners."
+    },
+    {
+      "slug": "defense-nuclear-facilities-safety-board",
+      "url": "https://www.usa.gov/agencies/defense-nuclear-facilities-safety-board",
+      "name": "Defense Nuclear Facilities Safety Board (DNFSB)",
+      "description": "The Defense Nuclear Facilities Safety Board independently reviews safety at Department of Energy defense nuclear facilities and recommends actions to protect workers, the public, and the environment."
+    },
+    {
+      "slug": "defense-pow/mia-accounting-agency",
+      "url": "https://www.usa.gov/agencies/defense-pow/mia-accounting-agency",
+      "name": "Defense POW/MIA Accounting Agency (DPAA)",
+      "description": "The Defense POW/MIA Accounting Agency leads efforts to recover, identify, and repatriate U.S. personnel who remain missing from past conflicts and to support their families."
+    },
+    {
+      "slug": "defense-security-cooperation-agency",
+      "url": "https://www.usa.gov/agencies/defense-security-cooperation-agency",
+      "name": "Defense Security Cooperation Agency (DSCA)",
+      "description": "The Defense Security Cooperation Agency plans and executes security cooperation programs, including training, education, and equipment, that align foreign partners with U.S. defense and foreign-policy goals."
+    },
+    {
+      "slug": "defense-technical-information-center",
+      "url": "https://www.usa.gov/agencies/defense-technical-information-center",
+      "name": "Defense Technical Information Center (DTIC)",
+      "description": "The Defense Technical Information Center acquires, preserves, and disseminates scientific, technical, and program information funded by the Department of Defense and related sponsors."
+    },
+    {
+      "slug": "defense-threat-reduction-agency",
+      "url": "https://www.usa.gov/agencies/defense-threat-reduction-agency",
+      "name": "Defense Threat Reduction Agency (DTRA)",
+      "description": "The Defense Threat Reduction Agency reduces global risks from weapons of mass destruction and emerging threats by detecting dangers, securing materials, and enabling consequence management with partners."
+    },
+    {
+      "slug": "delaware-river-basin-commission",
+      "url": "https://www.usa.gov/agencies/delaware-river-basin-commission",
+      "name": "Delaware River Basin Commission (DRBC)",
+      "description": "The Delaware River Basin Commission is an interstate-federal compact agency that plans, regulates, and coordinates water and related resource management across the Delaware River watershed."
+    },
+    {
+      "slug": "delta-regional-authority",
+      "url": "https://www.usa.gov/agencies/delta-regional-authority",
+      "name": "Delta Regional Authority (DRA)",
+      "description": "The Delta Regional Authority invests federal resources in transportation, workforce, and community infrastructure to strengthen economic development in the eight-state Mississippi Delta region."
+    },
+    {
+      "slug": "denali-commission",
+      "url": "https://www.usa.gov/agencies/denali-commission",
+      "name": "Denali Commission",
+      "description": "The Denali Commission funds infrastructure, utilities, and economic projects that improve health, safety, and opportunity for communities across rural Alaska."
+    },
+    {
+      "slug": "department-of-energy-office-of-science",
+      "url": "https://www.usa.gov/agencies/department-of-energy-office-of-science",
+      "name": "Department of Energy’s Office of Science",
+      "description": "The Department of Energy Office of Science is the nation’s largest federal sponsor of basic physical-sciences research and operates major open user facilities at national laboratories."
+    },
+    {
+      "slug": "drug-enforcement-administration",
+      "url": "https://www.usa.gov/agencies/drug-enforcement-administration",
+      "name": "Drug Enforcement Administration (DEA)",
+      "description": "The Drug Enforcement Administration enforces controlled-substances laws, disrupts trafficking organizations, and supports diversion control and demand reduction consistent with national drug-control strategy."
+    },
+    {
+      "slug": "economic-development-administration",
+      "url": "https://www.usa.gov/agencies/economic-development-administration",
+      "name": "Economic Development Administration (EDA)",
+      "description": "The Economic Development Administration awards grants and technical assistance that help distressed regions build capacity, diversify economies, and create jobs through public-private partnerships."
+    },
+    {
+      "slug": "economic-growth-energy-and-the-environment",
+      "url": "https://www.usa.gov/agencies/economic-growth-energy-and-the-environment",
+      "name": "Economic Growth, Energy, and the Environment",
+      "description": "The Under Secretary of State for Economic Growth, Energy, and the Environment directs diplomacy on trade, energy, agriculture, oceans, climate, science, and technology to advance U.S. prosperity and security."
+    },
+    {
+      "slug": "economic-research-service",
+      "url": "https://www.usa.gov/agencies/economic-research-service",
+      "name": "Economic Research Service (ERS)",
+      "description": "The Economic Research Service conducts economic analysis and publishes data on food, farming, rural communities, and natural resources to inform USDA policy and the public."
+    },
+    {
+      "slug": "elder-justice-initiative",
+      "url": "https://www.usa.gov/agencies/elder-justice-initiative",
+      "name": "Elder Justice Initiative (EJI)",
+      "description": "The Elder Justice Initiative coordinates Department of Justice efforts to prevent and respond to elder abuse, neglect, and financial exploitation through enforcement, training, and victim support."
+    },
+    {
+      "slug": "employee-benefits-security-administration",
+      "url": "https://www.usa.gov/agencies/employee-benefits-security-administration",
+      "name": "Employee Benefits Security Administration (EBSA)",
+      "description": "The Employee Benefits Security Administration enforces Title I of ERISA, protects private-sector retirement and health benefits, and helps workers understand their plan rights."
+    },
+    {
+      "slug": "employment-and-training-administration",
+      "url": "https://www.usa.gov/agencies/employment-and-training-administration",
+      "name": "Employment and Training Administration (ETA)",
+      "description": "The Employment and Training Administration funds workforce programs, unemployment insurance oversight, and employment services that connect job seekers with training and opportunity."
+    },
+    {
+      "slug": "energy-information-administration",
+      "url": "https://www.usa.gov/agencies/energy-information-administration",
+      "name": "Energy Information Administration (EIA)",
+      "description": "The Energy Information Administration collects, analyzes, and publishes independent statistics and outlooks on U.S. and international energy production, consumption, markets, and infrastructure."
+    },
+    {
+      "slug": "english-language-acquisition-office",
+      "url": "https://www.usa.gov/agencies/english-language-acquisition-office",
+      "name": "Office of English Language Acquisition",
+      "description": "The Office of English Language Acquisition supports state and local programs that help English learners attain English proficiency and succeed academically across the Department of Education’s formula and discretionary grants."
+    },
+    {
+      "slug": "environmental-protection-agency",
+      "url": "https://www.usa.gov/agencies/environmental-protection-agency",
+      "name": "Environmental Protection Agency (EPA)",
+      "description": "The Environmental Protection Agency sets and enforces regulations, conducts research, and partners with states and tribes to protect human health and the environment from pollution and unsafe exposures."
+    },
+    {
+      "slug": "equal-employment-opportunity-commission",
+      "url": "https://www.usa.gov/agencies/equal-employment-opportunity-commission",
+      "name": "Equal Employment Opportunity Commission (EEOC)",
+      "description": "The Equal Employment Opportunity Commission enforces federal laws against employment discrimination based on race, color, religion, sex, national origin, age, disability, or genetic information."
+    },
+    {
+      "slug": "executive-office-for-immigration-review",
+      "url": "https://www.usa.gov/agencies/executive-office-for-immigration-review",
+      "name": "Executive Office for Immigration Review (EOIR)",
+      "description": "The Executive Office for Immigration Review runs the immigration courts and the Board of Immigration Appeals, which adjudicate removal cases and related immigration matters under law."
+    },
+    {
+      "slug": "export-import-bank-of-the-united-states",
+      "url": "https://www.usa.gov/agencies/export-import-bank-of-the-united-states",
+      "name": "Export-Import Bank of the United States (EXIM)",
+      "description": "The Export–Import Bank of the United States provides loans, guarantees, and credit insurance that help U.S. exporters, especially small businesses, compete in international markets when private financing is unavailable."
+    },
+    {
+      "slug": "fannie-mae",
+      "url": "https://www.usa.gov/agencies/fannie-mae",
+      "name": "Fannie Mae",
+      "description": "Fannie Mae is a congressionally chartered, shareholder-owned enterprise in conservatorship under the Federal Housing Finance Agency; it supports liquidity in the secondary mortgage market by purchasing qualifying loans from lenders."
+    },
+    {
+      "slug": "farm-credit-administration",
+      "url": "https://www.usa.gov/agencies/farm-credit-administration",
+      "name": "Farm Credit Administration (FCA)",
+      "description": "The Farm Credit Administration supervises the Farm Credit System and Farmer Mac so federally chartered agricultural lenders remain safe, sound, and able to serve farmers, ranchers, and rural borrowers."
+    },
+    {
+      "slug": "farm-credit-system-insurance-corporation",
+      "url": "https://www.usa.gov/agencies/farm-credit-system-insurance-corporation",
+      "name": "Farm Credit System Insurance Corporation (FCSIC)",
+      "description": "The Farm Credit System Insurance Corporation insures the timely payment of principal and interest on obligations issued by Farm Credit System institutions to protect investors and market stability."
+    },
+    {
+      "slug": "farm-service-agency",
+      "url": "https://www.usa.gov/agencies/farm-service-agency",
+      "name": "Farm Service Agency (FSA)",
+      "description": "The Farm Service Agency delivers farm loans, commodity programs, conservation incentives, and disaster assistance that stabilize farm income and support conservation on working lands."
+    },
+    {
+      "slug": "federal-accounting-standards-advisory-board",
+      "url": "https://www.usa.gov/agencies/federal-accounting-standards-advisory-board",
+      "name": "Federal Accounting Standards Advisory Board (FASAB)",
+      "description": "The Federal Accounting Standards Advisory Board issues federal financial accounting standards and guidance so government financial reports are consistent, comparable, and useful to decision makers."
+    },
+    {
+      "slug": "federal-aviation-administration",
+      "url": "https://www.usa.gov/agencies/federal-aviation-administration",
+      "name": "Federal Aviation Administration (FAA)",
+      "description": "The Federal Aviation Administration regulates civil aviation safety, operates the air traffic system, certifies aircraft and pilots, and advances NextGen technology for safer, more efficient flight."
+    },
+    {
+      "slug": "federal-bureau-of-investigation",
+      "url": "https://www.usa.gov/agencies/federal-bureau-of-investigation",
+      "name": "Federal Bureau of Investigation (FBI)",
+      "description": "The Federal Bureau of Investigation investigates violations of federal criminal law, including terrorism, cybercrime, public corruption, and civil-rights offenses, and provides intelligence and forensic support to partners."
+    },
+    {
+      "slug": "federal-bureau-of-prisons",
+      "url": "https://www.usa.gov/agencies/federal-bureau-of-prisons",
+      "name": "Federal Bureau of Prisons (FBOP)",
+      "description": "The Federal Bureau of Prisons operates secure institutions and community-based programs that house federal offenders, maintain safe and humane conditions, and support reentry where authorized."
+    },
+    {
+      "slug": "federal-committee-on-statistical-methodology",
+      "url": "https://www.usa.gov/agencies/federal-committee-on-statistical-methodology",
+      "name": "Federal Committee on Statistical Methodology (FCSM)",
+      "description": "The Federal Committee on Statistical Methodology advises the Office of Management and Budget on statistical policy, methods, and quality standards for federal statistics and surveys."
+    },
+    {
+      "slug": "federal-communications-commission",
+      "url": "https://www.usa.gov/agencies/federal-communications-commission",
+      "name": "Federal Communications Commission (FCC)",
+      "description": "The Federal Communications Commission regulates interstate and international wire, radio, television, satellite, and cable communications to promote competition, innovation, and reliable service."
+    },
+    {
+      "slug": "federal-deposit-insurance-corporation",
+      "url": "https://www.usa.gov/agencies/federal-deposit-insurance-corporation",
+      "name": "Federal Deposit Insurance Corporation (FDIC)",
+      "description": "The Federal Deposit Insurance Corporation insures deposits, supervises state-chartered banks that are not Federal Reserve members, and resolves failed institutions to maintain public confidence in the banking system."
+    },
+    {
+      "slug": "federal-election-commission",
+      "url": "https://www.usa.gov/agencies/federal-election-commission",
+      "name": "Federal Election Commission (FEC)",
+      "description": "The Federal Election Commission administers and enforces the Federal Election Campaign Act, discloses campaign finance data, and oversees public funding of presidential elections as Congress directs."
+    },
+    {
+      "slug": "federal-emergency-management-agency",
+      "url": "https://www.usa.gov/agencies/federal-emergency-management-agency",
+      "name": "Federal Emergency Management Agency (FEMA)",
+      "description": "The Federal Emergency Management Agency leads national preparedness, coordinates federal disaster response and recovery, and helps communities mitigate hazards and build resilience before emergencies occur."
+    },
+    {
+      "slug": "federal-energy-regulatory-commission",
+      "url": "https://www.usa.gov/agencies/federal-energy-regulatory-commission",
+      "name": "Federal Energy Regulatory Commission (FERC)",
+      "description": "The Federal Energy Regulatory Commission regulates wholesale electricity and natural-gas markets, hydroelectric licensing, oil pipelines in interstate commerce, and liquefied-natural-gas terminals."
+    },
+    {
+      "slug": "federal-financial-institutions-examination-council",
+      "url": "https://www.usa.gov/agencies/federal-financial-institutions-examination-council",
+      "name": "Federal Financial Institutions Examination Council (FFIEC)",
+      "description": "The Federal Financial Institutions Examination Council develops uniform principles, standards, and report forms so federal banking regulators examine depository institutions consistently."
+    },
+    {
+      "slug": "federal-financing-bank",
+      "url": "https://www.usa.gov/agencies/federal-financing-bank",
+      "name": "Federal Financing Bank (FFB)",
+      "description": "The Federal Financing Bank borrows in U.S. Treasury markets and lends to federal agencies and federally assisted borrowers to lower the cost and improve coordination of federal credit programs."
+    },
+    {
+      "slug": "federal-geographic-data-committee",
+      "url": "https://www.usa.gov/agencies/federal-geographic-data-committee",
+      "name": "Federal Geographic Data Committee (FGDC)",
+      "description": "The Federal Geographic Data Committee coordinates federal geospatial activities, promotes the National Spatial Data Infrastructure, and encourages shared standards and interoperable geographic information."
+    },
+    {
+      "slug": "federal-highway-administration",
+      "url": "https://www.usa.gov/agencies/federal-highway-administration",
+      "name": "Federal Highway Administration (FHWA)",
+      "description": "The Federal Highway Administration distributes federal-aid highway funds, sets safety and design standards, and works with states to plan, build, and preserve the National Highway System."
+    },
+    {
+      "slug": "federal-housing-administration",
+      "url": "https://www.usa.gov/agencies/federal-housing-administration",
+      "name": "Federal Housing Administration (FHA)",
+      "description": "The Federal Housing Administration insures mortgages on single-family, multifamily, and health-care properties so approved lenders can offer affordable financing with limited down payments."
+    },
+    {
+      "slug": "federal-housing-finance-agency",
+      "url": "https://www.usa.gov/agencies/federal-housing-finance-agency",
+      "name": "Federal Housing Finance Agency (FHFA)",
+      "description": "The Federal Housing Finance Agency regulates Fannie Mae, Freddie Mac, and the Federal Home Loan Banks to ensure safety, soundness, and housing-finance liquidity in conservatorship and beyond."
+    },
+    {
+      "slug": "federal-judicial-center",
+      "url": "https://www.usa.gov/agencies/federal-judicial-center",
+      "name": "Federal Judicial Center",
+      "description": "The Federal Judicial Center researches judicial administration, develops education programs for judges and court employees, and supports innovation and efficiency across the federal courts."
+    },
+    {
+      "slug": "federal-labor-relations-authority",
+      "url": "https://www.usa.gov/agencies/federal-labor-relations-authority",
+      "name": "Federal Labor Relations Authority (FLRA)",
+      "description": "The Federal Labor Relations Authority resolves disputes over collective bargaining, union representation, and unfair labor practices for most non-postal federal employees and agencies."
+    },
+    {
+      "slug": "federal-laboratory-consortium-for-technology-transfer",
+      "url": "https://www.usa.gov/agencies/federal-laboratory-consortium-for-technology-transfer",
+      "name": "Federal Laboratory Consortium for Technology Transfer (FLC)",
+      "description": "The Federal Laboratory Consortium helps federal laboratories license inventions, partner with industry, and move federally funded research into commercial use for the economy and national security."
+    },
+    {
+      "slug": "federal-law-enforcement-training-center",
+      "url": "https://www.usa.gov/agencies/federal-law-enforcement-training-center",
+      "name": "Federal Law Enforcement Training Centers (FLETC)",
+      "description": "The Federal Law Enforcement Training Center provides interagency training in firearms, driving, investigations, and leadership so federal and partner law-enforcement personnel meet common professional standards."
+    },
+    {
+      "slug": "federal-library-and-information-network",
+      "url": "https://www.usa.gov/agencies/federal-library-and-information-network",
+      "name": "Federal Library and Information Network (FEDLINK)",
+      "description": "The Federal Library and Information Network negotiates shared services, training, and procurement so federal libraries and information centers operate efficiently across agencies."
+    },
+    {
+      "slug": "federal-maritime-commission",
+      "url": "https://www.usa.gov/agencies/federal-maritime-commission",
+      "name": "Federal Maritime Commission (FMC)",
+      "description": "The Federal Maritime Commission regulates oceanborne foreign commerce of the United States, monitors agreements among carriers, and protects shippers and the public from unfair or discriminatory practices."
+    },
+    {
+      "slug": "federal-mediation-and-conciliation-service",
+      "url": "https://www.usa.gov/agencies/federal-mediation-and-conciliation-service",
+      "name": "Federal Mediation and Conciliation Service (FMCS)",
+      "description": "The Federal Mediation and Conciliation Service provides mediation, arbitration training, and dispute-resolution services that help employers and unions resolve labor conflicts without disruption."
+    },
+    {
+      "slug": "federal-mine-safety-and-health-review-commission",
+      "url": "https://www.usa.gov/agencies/federal-mine-safety-and-health-review-commission",
+      "name": "Federal Mine Safety and Health Review Commission",
+      "description": "The Federal Mine Safety and Health Review Commission adjudicates contests of Mine Safety and Health Administration enforcement actions and promotes fair, consistent application of mine safety law."
+    },
+    {
+      "slug": "federal-motor-carrier-safety-administration",
+      "url": "https://www.usa.gov/agencies/federal-motor-carrier-safety-administration",
+      "name": "Federal Motor Carrier Safety Administration (FMCSA)",
+      "description": "The Federal Motor Carrier Safety Administration regulates commercial motor carriers and drivers, sets hours-of-service and vehicle standards, and targets high-risk operators to reduce crashes and fatalities."
+    },
+    {
+      "slug": "federal-protective-service",
+      "url": "https://www.usa.gov/agencies/federal-protective-service",
+      "name": "Federal Protective Service (FPS)",
+      "description": "The Federal Protective Service provides law enforcement, physical security assessments, and protective services for federally owned and leased facilities and supports continuity of government operations."
+    },
+    {
+      "slug": "federal-railroad-administration",
+      "url": "https://www.usa.gov/agencies/federal-railroad-administration",
+      "name": "Federal Railroad Administration (FRA)",
+      "description": "The Federal Railroad Administration issues safety regulations, inspects railroads, funds passenger and freight rail improvements, and researches technologies that reduce risk across the rail network."
+    },
+    {
+      "slug": "federal-reserve-system",
+      "url": "https://www.usa.gov/agencies/federal-reserve-system",
+      "name": "Federal Reserve System",
+      "description": "The Federal Reserve System conducts monetary policy, supervises and regulates banking institutions, maintains payment and settlement systems, and promotes financial stability as the nation’s central bank."
+    },
+    {
+      "slug": "federal-retirement-thrift-investment-board",
+      "url": "https://www.usa.gov/agencies/federal-retirement-thrift-investment-board",
+      "name": "Federal Retirement Thrift Investment Board (FRTIB)",
+      "description": "The Federal Retirement Thrift Investment Board administers the Thrift Savings Plan, the tax-deferred defined-contribution retirement program for federal employees and uniformed-service members."
+    },
+    {
+      "slug": "federal-student-aid-information-center",
+      "url": "https://www.usa.gov/agencies/federal-student-aid-information-center",
+      "name": "Federal Student Aid Information Center",
+      "description": "Federal Student Aid, part of the Department of Education, delivers more than $125 billion annually in grants, work-study, and loans so students can pay for postsecondary education."
+    },
+    {
+      "slug": "federal-trade-commission",
+      "url": "https://www.usa.gov/agencies/federal-trade-commission",
+      "name": "Federal Trade Commission (FTC)",
+      "description": "The Federal Trade Commission stops unfair methods of competition and deceptive practices, enforces consumer-protection statutes, and promotes data privacy through investigations, rulemakings, and education."
+    },
+    {
+      "slug": "federal-transit-administration",
+      "url": "https://www.usa.gov/agencies/federal-transit-administration",
+      "name": "Federal Transit Administration (FTA)",
+      "description": "The Federal Transit Administration awards capital and planning grants, sets safety standards, and provides technical assistance so communities build and operate safe, accessible public transportation."
+    },
+    {
+      "slug": "federal-voting-assistance-program",
+      "url": "https://www.usa.gov/agencies/federal-voting-assistance-program",
+      "name": "Federal Voting Assistance Program",
+      "description": "The Federal Voting Assistance Program helps uniformed-service members, their families, and U.S. citizens overseas register, request absentee ballots, and cast votes in federal elections."
+    },
+    {
+      "slug": "fish-and-wildlife-service",
+      "url": "https://www.usa.gov/agencies/fish-and-wildlife-service",
+      "name": "Fish and Wildlife Service (FWS)",
+      "description": "The Fish and Wildlife Service conserves fish, wildlife, plants, and habitats on behalf of the American people through science, partnerships, law enforcement, and management of the National Wildlife Refuge System."
+    },
+    {
+      "slug": "food-and-drug-administration",
+      "url": "https://www.usa.gov/agencies/food-and-drug-administration",
+      "name": "Food and Drug Administration (FDA)",
+      "description": "The Food and Drug Administration protects public health by regulating human and veterinary drugs, biologics, medical devices, food, cosmetics, tobacco, and radiation-emitting products using science-based standards."
+    },
+    {
+      "slug": "food-and-nutrition-service",
+      "url": "https://www.usa.gov/agencies/food-and-nutrition-service",
+      "name": "Food and Nutrition Service (FNS)",
+      "description": "The Food and Nutrition Service administers federal nutrition assistance, including school meals and SNAP, so children and low-income people have access to adequate, nutritious food."
+    },
+    {
+      "slug": "food-safety-and-inspection-service",
+      "url": "https://www.usa.gov/agencies/food-safety-and-inspection-service",
+      "name": "Food Safety and Inspection Service (FSIS)",
+      "description": "The Food Safety and Inspection Service inspects meat, poultry, and egg products, enforces food-safety standards, and recalls adulterated or misbranded products to protect consumers."
+    },
+    {
+      "slug": "foreign-agricultural-service",
+      "url": "https://www.usa.gov/agencies/foreign-agricultural-service",
+      "name": "Foreign Agricultural Service (FAS)",
+      "description": "The Foreign Agricultural Service opens export markets through trade policy, market intelligence, and promotion programs and helps administer food-aid activities that build agricultural capacity abroad."
+    },
+    {
+      "slug": "foreign-claims-settlement-commission",
+      "url": "https://www.usa.gov/agencies/foreign-claims-settlement-commission",
+      "name": "Foreign Claims Settlement Commission (FCSC)",
+      "description": "The Foreign Claims Settlement Commission adjudicates claims by U.S. nationals against foreign governments under statutes and international agreements and issues final determinations within its jurisdiction."
+    },
+    {
+      "slug": "forest-service",
+      "url": "https://www.usa.gov/agencies/forest-service",
+      "name": "Forest Service",
+      "description": "The Forest Service manages national forests and grasslands, conducts wildfire response and fuels reduction, and delivers recreation, watershed, and timber programs with states, tribes, and partners."
+    },
+    {
+      "slug": "freddie-mac",
+      "url": "https://www.usa.gov/agencies/freddie-mac",
+      "name": "Freddie Mac",
+      "description": "Freddie Mac is a congressionally chartered, shareholder-owned enterprise in conservatorship under the Federal Housing Finance Agency; it supports housing finance by purchasing mortgages and guaranteeing mortgage-related securities."
+    },
+    {
+      "slug": "fulbright-program",
+      "url": "https://www.usa.gov/agencies/fulbright-program",
+      "name": "Fulbright Program",
+      "description": "The Fulbright Program, sponsored by the Department of State, awards exchanges that send U.S. scholars abroad and bring international participants to the United States for study, teaching, and research."
+    },
+    {
+      "slug": "general-services-administration",
+      "url": "https://www.usa.gov/agencies/general-services-administration",
+      "name": "General Services Administration (GSA)",
+      "description": "The General Services Administration procures goods and services, manages federal real property and fleet vehicles, and delivers technology and shared services that keep agencies operating efficiently."
+    },
+    {
+      "slug": "ginnie-mae",
+      "url": "https://www.usa.gov/agencies/ginnie-mae",
+      "name": "Ginnie Mae",
+      "description": "The Government National Mortgage Association, a wholly owned corporation within the Department of Housing and Urban Development, guarantees mortgage-backed securities backed by federally insured or guaranteed loans."
+    },
+    {
+      "slug": "government-accountability-office",
+      "url": "https://www.usa.gov/agencies/government-accountability-office",
+      "name": "Government Accountability Office (GAO)",
+      "description": "The Government Accountability Office audits agency operations, evaluates programs for Congress, and issues legal decisions on bid protests to improve accountability and save taxpayer dollars."
+    },
+    {
+      "slug": "government-publishing-office",
+      "url": "https://www.usa.gov/agencies/government-publishing-office",
+      "name": "Government Publishing Office (GPO)",
+      "description": "The Government Publishing Office authenticates, produces, and distributes official U.S. government information in print and digital form and operates the Federal Depository Library Program for public access."
+    },
+    {
+      "slug": "harry-s-truman-scholarship-foundation",
+      "url": "https://www.usa.gov/agencies/harry-s-truman-scholarship-foundation",
+      "name": "Harry S. Truman Scholarship Foundation",
+      "description": "The Harry S. Truman Scholarship Foundation awards graduate scholarships to college juniors who demonstrate leadership and intend careers in public service at the federal, state, or local level."
+    },
+    {
+      "slug": "health-resources-and-services-administration",
+      "url": "https://www.usa.gov/agencies/health-resources-and-services-administration",
+      "name": "Health Resources and Services Administration (HRSA)",
+      "description": "The Health Resources and Services Administration funds community health centers, trains clinicians, runs organ-donation programs, and targets HIV, maternal, and rural health disparities."
+    },
+    {
+      "slug": "holocaust-memorial-museum",
+      "url": "https://www.usa.gov/agencies/holocaust-memorial-museum",
+      "name": "Holocaust Memorial Museum",
+      "description": "The United States Holocaust Memorial Museum educates the public about Holocaust history, preserves evidence and testimony, and promotes reflection on genocide prevention as an independent institution on federal land."
+    },
+    {
+      "slug": "house-office-of-inspector-general",
+      "url": "https://www.usa.gov/agencies/house-office-of-inspector-general",
+      "name": "House Office of Inspector General (OIG)",
+      "description": "The House Office of the Inspector General conducts independent audits and investigations of House financial and administrative operations and reports findings to House leadership."
+    },
+    {
+      "slug": "house-office-of-the-clerk",
+      "url": "https://www.usa.gov/agencies/house-office-of-the-clerk",
+      "name": "House Office of the Clerk",
+      "description": "The Office of the Clerk of the House records proceedings, maintains official journals and legislative documents, and performs statutory duties that support Members and the institution between Congresses."
+    },
+    {
+      "slug": "human-foods-program",
+      "url": "https://www.usa.gov/agencies/human-foods-program",
+      "name": "Human Foods Program (HFP)",
+      "description": "The Human Foods Program leads the Food and Drug Administration’s work on food safety, nutrition science, and labeling policy to prevent illness and promote healthy dietary patterns."
+    },
+    {
+      "slug": "indian-arts-and-crafts-board",
+      "url": "https://www.usa.gov/agencies/indian-arts-and-crafts-board",
+      "name": "Indian Arts and Crafts Board (IACB)",
+      "description": "The Indian Arts and Crafts Board promotes authentic Native American art, enforces marketing laws against misrepresentation, operates museums, and provides marketing assistance to tribal artists and enterprises."
+    },
+    {
+      "slug": "indian-health-service",
+      "url": "https://www.usa.gov/agencies/indian-health-service",
+      "name": "Indian Health Service (IHS)",
+      "description": "The Indian Health Service delivers comprehensive health services to eligible American Indian and Alaska Native people, funds tribal and urban programs, and advances public health in tribal communities."
+    },
+    {
+      "slug": "indoor-air-quality",
+      "url": "https://www.usa.gov/agencies/indoor-air-quality",
+      "name": "Indoor Air Quality (IAQ)",
+      "description": "The Environmental Protection Agency’s Indoor Environments Division develops guidance, research, and partnerships that help the public reduce indoor pollutants and protect health in homes, schools, and workplaces."
+    },
+    {
+      "slug": "institute-of-education-sciences",
+      "url": "https://www.usa.gov/agencies/institute-of-education-sciences",
+      "name": "Institute of Education Sciences (IES)",
+      "description": "The Institute of Education Sciences funds rigorous education research, collects national statistics, and evaluates programs so policymakers and practitioners use evidence to improve student outcomes."
+    },
+    {
+      "slug": "institute-of-museum-and-library-services",
+      "url": "https://www.usa.gov/agencies/institute-of-museum-and-library-services",
+      "name": "Institute of Museum and Library Services (IMLS)",
+      "description": "The Institute of Museum and Library Services awards grants, conducts research, and advises policy so museums and libraries expand learning, civic engagement, and equitable access to information."
+    },
+    {
+      "slug": "inter-american-foundation",
+      "url": "https://www.usa.gov/agencies/inter-american-foundation",
+      "name": "Inter-American Foundation (IAF)",
+      "description": "The Inter-American Foundation makes small grants to grassroots organizations and social entrepreneurs in Latin America and the Caribbean that advance community-led development and democratic participation."
+    },
+    {
+      "slug": "interagency-alternative-dispute-resolution-working-group",
+      "url": "https://www.usa.gov/agencies/interagency-alternative-dispute-resolution-working-group",
+      "name": "Interagency Alternative Dispute Resolution Working Group",
+      "description": "The Interagency Alternative Dispute Resolution Working Group shares best practices, training, and policy guidance so federal agencies build effective ADR programs for workplace and program disputes."
+    },
+    {
+      "slug": "interagency-committee-for-the-management-of-noxious-and-exotic-weeds",
+      "url": "https://www.usa.gov/agencies/interagency-committee-for-the-management-of-noxious-and-exotic-weeds",
+      "name": "Interagency Committee for the Management of Noxious and Exotic Weeds",
+      "description": "The Interagency Committee for the Management of Noxious and Exotic Weeds coordinates federal efforts with states and stakeholders to prevent, detect, and control invasive plants on public and private lands."
+    },
+    {
+      "slug": "internal-revenue-service",
+      "url": "https://www.usa.gov/agencies/internal-revenue-service",
+      "name": "Internal Revenue Service (IRS)",
+      "description": "The Internal Revenue Service administers the Internal Revenue Code, processes tax returns and payments, enforces compliance fairly, and assists taxpayers in meeting their federal tax obligations."
+    },
+    {
+      "slug": "international-trade-administration",
+      "url": "https://www.usa.gov/agencies/international-trade-administration",
+      "name": "International Trade Administration (ITA)",
+      "description": "The International Trade Administration strengthens U.S. industry competitiveness by promoting exports, analyzing trade data, enforcing trade remedies, and advocating for American firms in foreign markets."
+    },
+    {
+      "slug": "james-madison-memorial-fellowship-foundation",
+      "url": "https://www.usa.gov/agencies/james-madison-memorial-fellowship-foundation",
+      "name": "James Madison Memorial Fellowship Foundation",
+      "description": "The James Madison Memorial Fellowship Foundation awards fellowships to future secondary teachers who will deepen their study of the Constitution and teach it effectively in American classrooms."
+    },
+    {
+      "slug": "japan-united-states-friendship-commission",
+      "url": "https://www.usa.gov/agencies/japan-united-states-friendship-commission",
+      "name": "Japan-United States Friendship Commission (JUSFC)",
+      "description": "The Japan–United States Friendship Commission awards grants that support educational, cultural, and grassroots exchanges that strengthen mutual understanding between the American and Japanese people."
+    },
+    {
+      "slug": "job-corps",
+      "url": "https://www.usa.gov/agencies/job-corps",
+      "name": "Job Corps",
+      "description": "Job Corps is a nationwide residential program administered by the Department of Labor that provides education, vocational training, and support services to young people ages sixteen through twenty-four."
+    },
+    {
+      "slug": "john-f-kennedy-center-for-the-performing-arts",
+      "url": "https://www.usa.gov/agencies/john-f-kennedy-center-for-the-performing-arts",
+      "name": "John F. Kennedy Center for the Performing Arts",
+      "description": "The John F. Kennedy Center for the Performing Arts presents music, theater, dance, and opera, commissions new work, and runs education programs as the national cultural center and living memorial."
+    },
+    {
+      "slug": "joint-board-for-the-enrollment-of-actuaries",
+      "url": "https://www.usa.gov/agencies/joint-board-for-the-enrollment-of-actuaries",
+      "name": "Joint Board for the Enrollment of Actuaries",
+      "description": "The Joint Board for the Enrollment of Actuaries sets qualification standards and enrolls actuaries who perform pension-plan actuarial services under federal employee retirement laws."
+    },
+    {
+      "slug": "joint-chiefs-of-staff",
+      "url": "https://www.usa.gov/agencies/joint-chiefs-of-staff",
+      "name": "Joint Chiefs of Staff",
+      "description": "The Joint Chiefs of Staff comprise the uniformed heads of the military departments and advise the President, Secretary of Defense, and National Security Council on military strategy, plans, and operations."
+    },
+    {
+      "slug": "joint-congressional-committee-on-inaugural-ceremonies",
+      "url": "https://www.usa.gov/agencies/joint-congressional-committee-on-inaugural-ceremonies",
+      "name": "Joint Congressional Committee on Inaugural Ceremonies (JCCIC)",
+      "description": "The Joint Congressional Committee on Inaugural Ceremonies plans and conducts the presidential inauguration at the U.S. Capitol, including the oath of office and related ceremonial events."
+    },
+    {
+      "slug": "joint-fire-science-program",
+      "url": "https://www.usa.gov/agencies/joint-fire-science-program",
+      "name": "Joint Fire Science Program (JFSP)",
+      "description": "The Joint Fire Science Program funds research, synthesizes findings, and shares knowledge that helps land managers reduce wildfire risk and restore fire-adapted ecosystems across jurisdictions."
+    },
+    {
+      "slug": "joint-forces-staff-college",
+      "url": "https://www.usa.gov/agencies/joint-forces-staff-college",
+      "name": "Joint Forces Staff College (JFSC)",
+      "description": "The Joint Forces Staff College educates national-security professionals in joint planning, operational art, and multinational coordination for campaigns that integrate all military services."
+    },
+    {
+      "slug": "joint-program-executive-office-for-chemical-biological-radiological-and-nuclear-defense",
+      "url": "https://www.usa.gov/agencies/joint-program-executive-office-for-chemical-biological-radiological-and-nuclear-defense",
+      "name": "Joint Program Executive Office for Chemical, Biological, Radiological and Nuclear Defense (JPEO-CBRND)",
+      "description": "The Joint Program Executive Office for Chemical, Biological, Radiological, and Nuclear Defense develops and fields capabilities that protect forces and the homeland from chemical, biological, radiological, and nuclear threats."
+    },
+    {
+      "slug": "judicial-panel-on-multidistrict-litigation",
+      "url": "https://www.usa.gov/agencies/judicial-panel-on-multidistrict-litigation",
+      "name": "Judicial Panel on Multidistrict Litigation (JPML)",
+      "description": "The Judicial Panel on Multidistrict Litigation decides whether related civil actions pending in multiple districts should be centralized for pretrial proceedings before a single federal district judge."
+    },
+    {
+      "slug": "legal-services-corporation",
+      "url": "https://www.usa.gov/agencies/legal-services-corporation",
+      "name": "Legal Services Corporation",
+      "description": "The Legal Services Corporation is a private nonprofit established by Congress that awards grants to civil legal-aid programs so low-income Americans obtain representation in noncriminal matters affecting basic needs."
+    },
+    {
+      "slug": "library-of-congress",
+      "url": "https://www.usa.gov/agencies/library-of-congress",
+      "name": "Library of Congress",
+      "description": "The Library of Congress sustains the world’s largest multidisciplinary collection, serves Congress with objective research through the Congressional Research Service, and administers U.S. copyright registration and recordation."
+    },
+    {
+      "slug": "marine-mammal-commission",
+      "url": "https://www.usa.gov/agencies/marine-mammal-commission",
+      "name": "Marine Mammal Commission",
+      "description": "The Marine Mammal Commission oversees federal marine mammal conservation policies and programs and advises on how agencies implement statutory conservation and protection requirements."
+    },
+    {
+      "slug": "maritime-administration",
+      "url": "https://www.usa.gov/agencies/maritime-administration",
+      "name": "Maritime Administration (MARAD)",
+      "description": "The Maritime Administration strengthens the U.S. merchant marine and maritime transportation system by supporting vessels, ports, shipbuilding and repair capacity, and related policies aligned with national economic and security needs."
+    },
+    {
+      "slug": "medicaid-and-chip-payment-and-access-commission",
+      "url": "https://www.usa.gov/agencies/medicaid-and-chip-payment-and-access-commission",
+      "name": "Medicaid and CHIP Payment and Access Commission (MACPAC)",
+      "description": "The Medicaid and CHIP Payment and Access Commission analyzes Medicaid and Children’s Health Insurance Program policy and financing and reports to Congress, the Department of Health and Human Services, and states."
+    },
+    {
+      "slug": "medicare-payment-advisory-commission",
+      "url": "https://www.usa.gov/agencies/medicare-payment-advisory-commission",
+      "name": "Medicare Payment Advisory Commission (MedPAC)",
+      "description": "The Medicare Payment Advisory Commission analyzes Medicare payment, access, and quality issues and advises Congress on policies affecting beneficiaries, providers, and program sustainability."
+    },
+    {
+      "slug": "merit-systems-protection-board",
+      "url": "https://www.usa.gov/agencies/merit-systems-protection-board",
+      "name": "Merit Systems Protection Board (MSPB)",
+      "description": "The Merit Systems Protection Board adjudicates certain federal employment appeals, studies civil service systems, and works to safeguard merit principles and employee rights across the executive branch."
+    },
+    {
+      "slug": "middle-east-broadcasting-networks",
+      "url": "https://www.usa.gov/agencies/middle-east-broadcasting-networks",
+      "name": "Middle East Broadcasting Networks",
+      "description": "The Middle East Broadcasting Networks operates Alhurra television and related programming to provide accurate news and information about the Middle East, the wider world, and the United States to regional audiences."
+    },
+    {
+      "slug": "migratory-bird-conservation-commission",
+      "url": "https://www.usa.gov/agencies/migratory-bird-conservation-commission",
+      "name": "Migratory Bird Conservation Commission",
+      "description": "The Migratory Bird Conservation Commission approves acquisitions and interests in land and water that the Secretary of the Interior recommends for migratory bird conservation under statutory authorities."
+    },
+    {
+      "slug": "military-postal-service-agency",
+      "url": "https://www.usa.gov/agencies/military-postal-service-agency",
+      "name": "Military Postal Service Agency (MPSA)",
+      "description": "The Military Postal Service Agency coordinates military mail policy and operations so Department of Defense personnel and their families receive postal services worldwide in support of readiness and morale."
+    },
+    {
+      "slug": "millennium-challenge-corporation",
+      "url": "https://www.usa.gov/agencies/millennium-challenge-corporation",
+      "name": "Millennium Challenge Corporation (MCC)",
+      "description": "The Millennium Challenge Corporation partners with select low-income countries that meet governance and policy criteria to fund infrastructure and policy programs that promote economic growth and reduce poverty."
+    },
+    {
+      "slug": "mine-safety-and-health-administration",
+      "url": "https://www.usa.gov/agencies/mine-safety-and-health-administration",
+      "name": "Mine Safety and Health Administration (MSHA)",
+      "description": "The Mine Safety and Health Administration sets and enforces health and safety standards for mines, inspects operations, and delivers training and technical support to prevent fatalities, injuries, and occupational illness."
+    },
+    {
+      "slug": "minority-business-development-agency",
+      "url": "https://www.usa.gov/agencies/minority-business-development-agency",
+      "name": "Minority Business Development Agency (MBDA)",
+      "description": "The Minority Business Development Agency promotes the growth and competitiveness of minority-owned businesses through business development services, policy coordination, and partnerships across the public and private sectors."
+    },
+    {
+      "slug": "missile-defense-agency",
+      "url": "https://www.usa.gov/agencies/missile-defense-agency",
+      "name": "Missile Defense Agency (MDA)",
+      "description": "The Missile Defense Agency researches, develops, tests, and fields ballistic missile defense capabilities for the United States and cooperates with allies on integrated air and missile defense where authorized."
+    },
+    {
+      "slug": "mississippi-river-commission",
+      "url": "https://www.usa.gov/agencies/mississippi-river-commission",
+      "name": "Mississippi River Commission (MRC)",
+      "description": "The Mississippi River Commission studies flood control, navigation, and environmental management on the Mississippi River and its tributaries and recommends policies, projects, and maintenance priorities to federal partners."
+    },
+    {
+      "slug": "national-aeronautics-and-space-administration",
+      "url": "https://www.usa.gov/agencies/national-aeronautics-and-space-administration",
+      "name": "National Aeronautics and Space Administration (NASA)",
+      "description": "The National Aeronautics and Space Administration leads civil space exploration, Earth and planetary science, aeronautics research, and technology development in support of U.S. leadership in space and innovation."
+    },
+    {
+      "slug": "national-agricultural-library",
+      "url": "https://www.usa.gov/agencies/national-agricultural-library",
+      "name": "National Agricultural Library (NAL)",
+      "description": "The National Agricultural Library curates and provides access to one of the world’s largest collections of agricultural and applied life-sciences literature and supports research, education, and information services."
+    },
+    {
+      "slug": "national-agricultural-statistics-service",
+      "url": "https://www.usa.gov/agencies/national-agricultural-statistics-service",
+      "name": "National Agricultural Statistics Service (NASS)",
+      "description": "The National Agricultural Statistics Service conducts surveys and censuses to produce official statistics on U.S. crop production, livestock, economics, and environmental indicators for producers, markets, and policymakers."
+    },
+    {
+      "slug": "national-archives-and-records-administration",
+      "url": "https://www.usa.gov/agencies/national-archives-and-records-administration",
+      "name": "National Archives and Records Administration (NARA)",
+      "description": "The National Archives and Records Administration preserves and provides access to federal records, operates Presidential Libraries, and publishes laws, regulations, and other official documents that document government actions."
+    },
+    {
+      "slug": "national-cancer-institute",
+      "url": "https://www.usa.gov/agencies/national-cancer-institute",
+      "name": "National Cancer Institute (NCI)",
+      "description": "The National Cancer Institute leads and supports research, training, and information programs on cancer causes, prevention, diagnosis, treatment, survivorship, and care delivery across the biomedical and public health enterprise."
+    },
+    {
+      "slug": "national-capital-planning-commission",
+      "url": "https://www.usa.gov/agencies/national-capital-planning-commission",
+      "name": "National Capital Planning Commission (NCPC)",
+      "description": "The National Capital Planning Commission plans long-range federal development in the National Capital Region, reviews major federal projects, and advises on land use, urban design, and conservation around Washington, D.C."
+    },
+    {
+      "slug": "national-cemetery-administration",
+      "url": "https://www.usa.gov/agencies/national-cemetery-administration",
+      "name": "National Cemetery Administration (NCA)",
+      "description": "The National Cemetery Administration provides burial and memorial benefits to eligible veterans and dependents, operates national cemeteries as national shrines, and maintains sites that honor service and sacrifice."
+    },
+    {
+      "slug": "national-center-for-complementary-and-integrative-health",
+      "url": "https://www.usa.gov/agencies/national-center-for-complementary-and-integrative-health",
+      "name": "National Center for Complementary and Integrative Health (NCCIH)",
+      "description": "The National Center for Complementary and Integrative Health defines and supports rigorous research on complementary health approaches and integrates evidence into practice guidance as part of the National Institutes of Health."
+    },
+    {
+      "slug": "national-constitution-center",
+      "url": "https://www.usa.gov/agencies/national-constitution-center",
+      "name": "National Constitution Center",
+      "description": "The National Constitution Center advances public understanding of the U.S. Constitution through museum exhibits, civic education programs, scholarly engagement, and nonpartisan interpretation of constitutional history and principles."
+    },
+    {
+      "slug": "national-council-on-disability",
+      "url": "https://www.usa.gov/agencies/national-council-on-disability",
+      "name": "National Council on Disability (NCD)",
+      "description": "The National Council on Disability advises the President, Congress, and federal agencies on disability policy, promotes equal opportunity, and recommends reforms that advance independence and full community participation."
+    },
+    {
+      "slug": "national-credit-union-administration",
+      "url": "https://www.usa.gov/agencies/national-credit-union-administration",
+      "name": "National Credit Union Administration (NCUA)",
+      "description": "The National Credit Union Administration charters and supervises federal credit unions, insures member shares in federally insured institutions, and oversees safety and soundness across the federal credit union system."
+    },
+    {
+      "slug": "national-defense-university",
+      "url": "https://www.usa.gov/agencies/national-defense-university",
+      "name": "National Defense University (NDU)",
+      "description": "The National Defense University educates senior military officers, civilian leaders, and international partners in national security strategy, joint operations, defense management, and interagency cooperation through resident and distributed programs."
+    },
+    {
+      "slug": "national-endowment-for-the-arts",
+      "url": "https://www.usa.gov/agencies/national-endowment-for-the-arts",
+      "name": "National Endowment for the Arts (NEA)",
+      "description": "The National Endowment for the Arts awards grants and partners with organizations nationwide to expand access to the arts, strengthen creative communities, and support artistic excellence across disciplines and geographies."
+    },
+    {
+      "slug": "national-endowment-for-the-humanities",
+      "url": "https://www.usa.gov/agencies/national-endowment-for-the-humanities",
+      "name": "National Endowment for the Humanities (NEH)",
+      "description": "The National Endowment for the Humanities funds research, education, preservation, and public programs in the humanities through grants to museums, libraries, universities, media organizations, and individual scholars."
+    },
+    {
+      "slug": "national-flood-insurance-program",
+      "url": "https://www.usa.gov/agencies/national-flood-insurance-program",
+      "name": "National Flood Insurance Program (NFIP)",
+      "description": "The National Flood Insurance Program offers flood insurance to property owners in participating communities, maps flood hazards, and promotes local adoption and enforcement of floodplain management standards to reduce risk."
+    },
+    {
+      "slug": "national-gallery-of-art",
+      "url": "https://www.usa.gov/agencies/national-gallery-of-art",
+      "name": "National Gallery of Art",
+      "description": "The National Gallery of Art collects, conserves, and exhibits works of art for the nation, supports scholarship and conservation science, and offers public programs that deepen understanding of visual culture and artistic heritage."
+    },
+    {
+      "slug": "national-geospatial-intelligence-agency",
+      "url": "https://www.usa.gov/agencies/national-geospatial-intelligence-agency",
+      "name": "National Geospatial-Intelligence Agency (NGA)",
+      "description": "The National Geospatial-Intelligence Agency produces geospatial intelligence from imagery, mapping, and related data to support national security decision-making, military operations, and humanitarian and disaster response missions."
+    },
+    {
+      "slug": "national-guard",
+      "url": "https://www.usa.gov/agencies/national-guard",
+      "name": "National Guard",
+      "description": "The National Guard provides trained Army and Air National Guard units to states, territories, and the District of Columbia for domestic response and supports federal missions worldwide under Title 10 and state authority."
+    },
+    {
+      "slug": "national-health-information-center",
+      "url": "https://www.usa.gov/agencies/national-health-information-center",
+      "name": "National Health Information Center (NHIC)",
+      "description": "The National Health Information Center maintains referral pathways and up-to-date contact information so health professionals and the public can reach reliable government and nonprofit health information resources."
+    },
+    {
+      "slug": "national-heart-lung-and-blood-institute",
+      "url": "https://www.usa.gov/agencies/national-heart-lung-and-blood-institute",
+      "name": "National Heart, Lung, and Blood Institute (NHLBI)",
+      "description": "The National Heart, Lung, and Blood Institute supports and conducts research, training, and education on heart, lung, blood, and sleep disorders to improve prevention, treatment, and public health outcomes."
+    },
+    {
+      "slug": "national-highway-traffic-safety-administration",
+      "url": "https://www.usa.gov/agencies/national-highway-traffic-safety-administration",
+      "name": "National Highway Traffic Safety Administration (NHTSA)",
+      "description": "The National Highway Traffic Safety Administration sets vehicle safety and fuel economy standards, investigates defects, supports state highway safety programs, and conducts research and public education to reduce crashes and harm."
+    },
+    {
+      "slug": "national-indian-gaming-commission",
+      "url": "https://www.usa.gov/agencies/national-indian-gaming-commission",
+      "name": "National Indian Gaming Commission",
+      "description": "The National Indian Gaming Commission regulates certain classes of gaming on Indian lands under the Indian Gaming Regulatory Act, sets minimum standards, and works with tribal regulators to support compliance."
+    },
+    {
+      "slug": "national-institute-of-allergy-and-infectious-diseases",
+      "url": "https://www.usa.gov/agencies/national-institute-of-allergy-and-infectious-diseases",
+      "name": "National Institute of Allergy and Infectious Diseases (NIAID)",
+      "description": "The National Institute of Allergy and Infectious Diseases leads research on infectious, immunologic, and allergic diseases, supports clinical trials and outbreak science, and translates findings into prevention and treatment strategies."
+    },
+    {
+      "slug": "national-institute-of-arthritis-musculoskeletal-and-skin-diseases",
+      "url": "https://www.usa.gov/agencies/national-institute-of-arthritis-musculoskeletal-and-skin-diseases",
+      "name": "National Institute of Arthritis, Musculoskeletal and Skin Diseases (NIAMS)",
+      "description": "The National Institute of Arthritis and Musculoskeletal and Skin Diseases supports research on arthritis, musculoskeletal, and skin disorders to improve understanding, diagnosis, treatment, and prevention across the lifespan."
+    },
+    {
+      "slug": "national-institute-of-corrections",
+      "url": "https://www.usa.gov/agencies/national-institute-of-corrections",
+      "name": "National Institute of Corrections (NIC)",
+      "description": "The National Institute of Corrections provides training, technical assistance, and information resources to federal, state, local, and tribal corrections agencies to improve institutional practices and community corrections outcomes."
+    },
+    {
+      "slug": "national-institute-of-deafness-and-other-communication-disorders",
+      "url": "https://www.usa.gov/agencies/national-institute-of-deafness-and-other-communication-disorders",
+      "name": "National Institute of Deafness and Other Communication Disorders (NIDCD)",
+      "description": "The National Institute on Deafness and Other Communication Disorders supports biomedical and behavioral research on hearing, balance, taste, smell, voice, speech, and language disorders and related public health communication."
+    },
+    {
+      "slug": "national-institute-of-dental-and-craniofacial-research",
+      "url": "https://www.usa.gov/agencies/national-institute-of-dental-and-craniofacial-research",
+      "name": "National Institute of Dental and Craniofacial Research (NIDCR)",
+      "description": "The National Institute of Dental and Craniofacial Research supports research and training to improve oral, dental, and craniofacial health and to reduce the burden of craniofacial conditions and oral diseases."
+    },
+    {
+      "slug": "national-institute-of-diabetes-and-digestive-and-kidney-diseases",
+      "url": "https://www.usa.gov/agencies/national-institute-of-diabetes-and-digestive-and-kidney-diseases",
+      "name": "National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)",
+      "description": "The National Institute of Diabetes and Digestive and Kidney Diseases supports research on diabetes, digestive diseases, kidney diseases, nutrition, and obesity to advance prevention, treatment, and population health."
+    },
+    {
+      "slug": "national-institute-of-food-and-agriculture",
+      "url": "https://www.usa.gov/agencies/national-institute-of-food-and-agriculture",
+      "name": "National Institute of Food and Agriculture (NIFA)",
+      "description": "The National Institute of Food and Agriculture funds competitive and capacity grants, extension, and education programs that advance agricultural science, food systems, rural prosperity, and environmental sustainability."
+    },
+    {
+      "slug": "national-institute-of-justice",
+      "url": "https://www.usa.gov/agencies/national-institute-of-justice",
+      "name": "National Institute of Justice (NIJ)",
+      "description": "The National Institute of Justice sponsors research, development, and evaluation to strengthen understanding of crime and justice issues and to inform evidence-based policies and practices across the criminal justice system."
+    },
+    {
+      "slug": "national-institute-of-mental-health",
+      "url": "https://www.usa.gov/agencies/national-institute-of-mental-health",
+      "name": "National Institute of Mental Health (NIMH)",
+      "description": "The National Institute of Mental Health supports neuroscience and services research to understand, treat, and prevent mental illnesses and to improve mental health outcomes through discovery, trials, and dissemination."
+    },
+    {
+      "slug": "national-institute-of-neurological-disorders-and-stroke",
+      "url": "https://www.usa.gov/agencies/national-institute-of-neurological-disorders-and-stroke",
+      "name": "National Institute of Neurological Disorders and Stroke (NINDS)",
+      "description": "The National Institute of Neurological Disorders and Stroke supports research on the brain and nervous system to improve prevention, diagnosis, and treatment of neurological disorders including stroke, epilepsy, neurodegenerative disease, and neurodevelopmental conditions."
+    },
+    {
+      "slug": "national-institute-of-occupational-safety-and-health",
+      "url": "https://www.usa.gov/agencies/national-institute-of-occupational-safety-and-health",
+      "name": "National Institute for Occupational Safety and Health (NIOSH)",
+      "description": "The National Institute for Occupational Safety and Health conducts research and makes recommendations to prevent work-related injury, illness, and fatalities through exposure science, engineering controls, and guidance."
+    },
+    {
+      "slug": "national-institute-of-standards-and-technology",
+      "url": "https://www.usa.gov/agencies/national-institute-of-standards-and-technology",
+      "name": "National Institute of Standards and Technology (NIST)",
+      "description": "The National Institute of Standards and Technology advances measurement science, standards, and technology to promote U.S. innovation, industrial competitiveness, cybersecurity, and reliable physical and digital infrastructure."
+    },
+    {
+      "slug": "national-institutes-of-health",
+      "url": "https://www.usa.gov/agencies/national-institutes-of-health",
+      "name": "National Institutes of Health (NIH)",
+      "description": "The National Institutes of Health is the nation’s principal biomedical research agency, supporting extramural grants and intramural science to understand life processes and reduce the burden of disease and disability."
+    },
+    {
+      "slug": "national-interagency-fire-center",
+      "url": "https://www.usa.gov/agencies/national-interagency-fire-center",
+      "name": "National Interagency Fire Center (NIFC)",
+      "description": "The National Interagency Fire Center coordinates national mobilization of wildland firefighting resources, supports interagency operations, and aligns federal, state, tribal, and local response to large wildfires and all-hazard incidents."
+    },
+    {
+      "slug": "national-invasive-species-information-center",
+      "url": "https://www.usa.gov/agencies/national-invasive-species-information-center",
+      "name": "National Invasive Species Information Center (NISIC)",
+      "description": "The National Invasive Species Information Center, hosted at the National Agricultural Library, compiles and disseminates authoritative information on invasive species policy, biology, and management for federal partners and the public."
+    },
+    {
+      "slug": "national-labor-relations-board",
+      "url": "https://www.usa.gov/agencies/national-labor-relations-board",
+      "name": "National Labor Relations Board (NLRB)",
+      "description": "The National Labor Relations Board enforces the National Labor Relations Act by investigating unfair labor practices, conducting union representation elections, and adjudicating cases that define collective-bargaining rights in the private sector."
+    },
+    {
+      "slug": "national-laboratories",
+      "url": "https://www.usa.gov/agencies/national-laboratories",
+      "name": "National Laboratories",
+      "description": "The national laboratories conduct large-scale research and development in energy, national security, advanced computing, and related sciences under federal stewardship to deliver breakthroughs for government missions and public benefit."
+    },
+    {
+      "slug": "national-library-of-medicine",
+      "url": "https://www.usa.gov/agencies/national-library-of-medicine",
+      "name": "National Library of Medicine",
+      "description": "The National Library of Medicine advances biomedical informatics and data science, curates the world’s largest biomedical literature collections, and operates discovery services as part of the National Institutes of Health."
+    },
+    {
+      "slug": "national-mediation-board",
+      "url": "https://www.usa.gov/agencies/national-mediation-board",
+      "name": "National Mediation Board (NMB)",
+      "description": "The National Mediation Board provides mediation, arbitration, and related dispute-resolution services for labor-management conflicts in the railroad and airline industries under federal railway labor statutes."
+    },
+    {
+      "slug": "national-nuclear-security-administration",
+      "url": "https://www.usa.gov/agencies/national-nuclear-security-administration",
+      "name": "National Nuclear Security Administration (NNSA)",
+      "description": "The National Nuclear Security Administration maintains the safety, security, and reliability of the nuclear weapons stockpile, stewards naval reactors programs, supports emergency response, and leads nuclear nonproliferation and counterterrorism missions."
+    },
+    {
+      "slug": "national-ocean-service",
+      "url": "https://www.usa.gov/agencies/national-ocean-service",
+      "name": "National Ocean Service",
+      "description": "The National Ocean Service delivers coastal science, mapping, navigation products, and decision-support tools that help communities manage coastal resources, hazards, and economies in partnership with regional stakeholders."
+    },
+    {
+      "slug": "national-oceanic-and-atmospheric-administration",
+      "url": "https://www.usa.gov/agencies/national-oceanic-and-atmospheric-administration",
+      "name": "National Oceanic and Atmospheric Administration (NOAA)",
+      "description": "The National Oceanic and Atmospheric Administration observes and forecasts weather, climate, oceans, and coasts; manages fisheries and marine sanctuaries; and provides environmental intelligence for public safety and economic resilience."
+    },
+    {
+      "slug": "national-park-foundation",
+      "url": "https://www.usa.gov/agencies/national-park-foundation",
+      "name": "National Park Foundation (NPF)",
+      "description": "The National Park Foundation is the congressionally chartered nonprofit partner that raises private support for National Park Service priorities including conservation, education, community engagement, and visitor experience."
+    },
+    {
+      "slug": "national-park-service",
+      "url": "https://www.usa.gov/agencies/national-park-service",
+      "name": "National Park Service (NPS)",
+      "description": "The National Park Service stewards national parks, monuments, and related sites, protects natural and cultural resources, and partners with communities to preserve historic places and provide outdoor recreation and interpretation nationwide."
+    },
+    {
+      "slug": "national-pesticide-information-center",
+      "url": "https://www.usa.gov/agencies/national-pesticide-information-center",
+      "name": "National Pesticide Information Center (NPIC)",
+      "description": "The National Pesticide Information Center provides objective, science-based answers on pesticide products, toxicology, environmental fate, and incident reporting through a cooperative agreement with Oregon State University and the Environmental Protection Agency."
+    },
+    {
+      "slug": "national-prevention-information-network",
+      "url": "https://www.usa.gov/agencies/national-prevention-information-network",
+      "name": "National Prevention Information Network (NPIN)",
+      "description": "The Centers for Disease Control and Prevention’s National Prevention Information Network serves as a national reference and referral hub for information on HIV, viral hepatitis, sexually transmitted infections, and tuberculosis prevention and care."
+    },
+    {
+      "slug": "national-reconnaissance-office",
+      "url": "https://www.usa.gov/agencies/national-reconnaissance-office",
+      "name": "National Reconnaissance Office (NRO)",
+      "description": "The National Reconnaissance Office develops, acquires, launches, and operates overhead reconnaissance systems that collect intelligence from space to support national security priorities and allied cooperation where authorized."
+    },
+    {
+      "slug": "national-science-foundation",
+      "url": "https://www.usa.gov/agencies/national-science-foundation",
+      "name": "National Science Foundation (NSF)",
+      "description": "The National Science Foundation funds fundamental research and education across science and engineering disciplines through competitive grants, major facilities, and workforce development that advance discovery and national innovation capacity."
+    },
+    {
+      "slug": "national-security-agency",
+      "url": "https://www.usa.gov/agencies/national-security-agency",
+      "name": "National Security Agency (NSA)",
+      "description": "The National Security Agency conducts signals intelligence and cybersecurity missions to protect U.S. national security systems, allied communications, and sensitive information from foreign adversaries and emerging digital threats."
+    },
+    {
+      "slug": "national-security-council",
+      "url": "https://www.usa.gov/agencies/national-security-council",
+      "name": "National Security Council (NSC)",
+      "description": "The National Security Council advises and assists the President on integrating domestic, foreign, military, intelligence, and homeland security policy to align national security decision-making across the executive branch."
+    },
+    {
+      "slug": "national-technical-information-service",
+      "url": "https://www.usa.gov/agencies/national-technical-information-service",
+      "name": "National Technical Information Service (NTIS)",
+      "description": "The National Technical Information Service collects and disseminates government-funded scientific, technical, engineering, and business information products and data services for industry, academia, and the public sector."
+    },
+    {
+      "slug": "national-telecommunications-and-information-administration",
+      "url": "https://www.usa.gov/agencies/national-telecommunications-and-information-administration",
+      "name": "National Telecommunications and Information Administration (NTIA)",
+      "description": "The National Telecommunications and Information Administration manages federal spectrum, advances broadband deployment and digital equity policy, conducts telecommunications research, and advises the President on information and communications technology issues."
+    },
+    {
+      "slug": "national-transportation-safety-board",
+      "url": "https://www.usa.gov/agencies/national-transportation-safety-board",
+      "name": "National Transportation Safety Board (NTSB)",
+      "description": "The National Transportation Safety Board investigates civil aviation accidents and significant surface, marine, and pipeline incidents, determines probable causes, and issues safety recommendations to prevent recurrence across transportation modes."
+    },
+    {
+      "slug": "national-weather-service",
+      "url": "https://www.usa.gov/agencies/national-weather-service",
+      "name": "National Weather Service",
+      "description": "The National Weather Service provides forecasts, warnings, and water and climate information using observational networks and models to protect life and property and support public safety, commerce, and environmental management."
+    },
+    {
+      "slug": "natural-resources-conservation-service",
+      "url": "https://www.usa.gov/agencies/natural-resources-conservation-service",
+      "name": "Natural Resources Conservation Service (NRCS)",
+      "description": "The Natural Resources Conservation Service works with agricultural producers and landowners to plan and implement voluntary conservation practices that improve soil health, water quality, wildlife habitat, and climate resilience on working lands."
+    },
+    {
+      "slug": "noaa-fisheries",
+      "url": "https://www.usa.gov/agencies/noaa-fisheries",
+      "name": "NOAA Fisheries",
+      "description": "NOAA Fisheries, also called the National Marine Fisheries Service, conserves and manages living marine resources in federal waters, implements science-based fisheries management, and protects threatened and endangered marine species."
+    },
+    {
+      "slug": "northern-border-regional-commission",
+      "url": "https://www.usa.gov/agencies/northern-border-regional-commission",
+      "name": "Northern Border Regional Commission",
+      "description": "The Northern Border Regional Commission is a federal-state partnership that awards grants for economic and community development projects in northern Maine, New Hampshire, Vermont, and New York border communities."
+    },
+    {
+      "slug": "nuclear-waste-technical-review-board",
+      "url": "https://www.usa.gov/agencies/nuclear-waste-technical-review-board",
+      "name": "Nuclear Waste Technical Review Board (NWTRB)",
+      "description": "The Nuclear Waste Technical Review Board provides independent scientific and technical review of the Department of Energy’s program to manage and dispose of spent nuclear fuel and high-level radioactive waste."
+    },
+    {
+      "slug": "oak-ridge-national-laboratory",
+      "url": "https://www.usa.gov/agencies/oak-ridge-national-laboratory",
+      "name": "Oak Ridge National Laboratory (ORNL)",
+      "description": "Oak Ridge National Laboratory conducts large-scale research in computing, materials, neutron science, clean energy, and national security to deliver scientific discovery and engineering solutions for Department of Energy missions."
+    },
+    {
+      "slug": "occupational-safety-and-health-administration",
+      "url": "https://www.usa.gov/agencies/occupational-safety-and-health-administration",
+      "name": "Occupational Safety and Health Administration (OSHA)",
+      "description": "The Occupational Safety and Health Administration sets and enforces workplace safety and health standards, conducts inspections, and provides compliance assistance, training, and outreach to reduce occupational fatalities, injuries, and illnesses."
+    },
+    {
+      "slug": "occupational-safety-and-health-review-commission",
+      "url": "https://www.usa.gov/agencies/occupational-safety-and-health-review-commission",
+      "name": "Occupational Safety and Health Review Commission (OSHRC)",
+      "description": "The Occupational Safety and Health Review Commission adjudicates contests of Occupational Safety and Health Administration citations and penalties through trial-type hearings and appellate review under the Occupational Safety and Health Act."
+    },
+    {
+      "slug": "office-for-civil-rights-department-of-education",
+      "url": "https://www.usa.gov/agencies/office-for-civil-rights-department-of-education",
+      "name": "Office for Civil Rights, Department of Education (OCR)",
+      "description": "The Department of Education’s Office for Civil Rights enforces federal civil rights laws in education programs, investigates discrimination complaints, and secures remedies that ensure equal access to educational opportunity."
+    },
+    {
+      "slug": "office-for-civil-rights-department-of-health-and-human-services",
+      "url": "https://www.usa.gov/agencies/office-for-civil-rights-department-of-health-and-human-services",
+      "name": "Office for Civil Rights, Department of Health and Human Services",
+      "description": "The Department of Health and Human Services Office for Civil Rights enforces civil rights, privacy, and health information laws in covered health and human services programs to prevent unlawful discrimination and protect patient rights."
+    },
+    {
+      "slug": "office-of-career-technical-and-adult-education",
+      "url": "https://www.usa.gov/agencies/office-of-career-technical-and-adult-education",
+      "name": "Office of Career, Technical, and Adult Education (OCTAE)",
+      "description": "The Office of Career, Technical, and Adult Education administers federal grants and guidance for career and technical education, adult education and literacy, and community college innovation aligned with workforce and postsecondary goals."
+    },
+    {
+      "slug": "office-of-child-support-services",
+      "url": "https://www.usa.gov/agencies/office-of-child-support-services",
+      "name": "Office of Child Support Services (OCSS)",
+      "description": "The Office of Child Support Services partners with states and tribes to establish paternity, set and enforce support orders, locate parents, and distribute payments so children receive financial and medical support reliably."
+    },
+    {
+      "slug": "office-of-community-planning-and-development",
+      "url": "https://www.usa.gov/agencies/office-of-community-planning-and-development",
+      "name": "Office of Community Planning and Development (CPD)",
+      "description": "The Office of Community Planning and Development administers HUD community development and homeless assistance programs that expand affordable housing, revitalize neighborhoods, and strengthen economic opportunity for low- and moderate-income residents."
+    },
+    {
+      "slug": "office-of-congressional-workplace-rights",
+      "url": "https://www.usa.gov/agencies/office-of-congressional-workplace-rights",
+      "name": "Office of Congressional Workplace Rights (OCWR)",
+      "description": "The Office of Congressional Workplace Rights administers occupational safety, health, accessibility, and labor standards for legislative branch employing offices and helps resolve workplace disputes under applicable statutes and regulations."
+    },
+    {
+      "slug": "office-of-cuba-broadcasting",
+      "url": "https://www.usa.gov/agencies/office-of-cuba-broadcasting",
+      "name": "Office of Cuba Broadcasting (Radio y TV Martí)",
+      "description": "The Office of Cuba Broadcasting operates Radio and Televisión Martí to provide news, information, and open debate for audiences in Cuba in accordance with U.S. international broadcasting policy and journalistic standards."
+    },
+    {
+      "slug": "office-of-disability-employment-policy",
+      "url": "https://www.usa.gov/agencies/office-of-disability-employment-policy",
+      "name": "Office of Disability Employment Policy (ODEP)",
+      "description": "The Office of Disability Employment Policy develops national disability employment policy, promotes inclusive workforce practices, and coordinates public-private initiatives so people with disabilities can fully participate in employment."
+    },
+    {
+      "slug": "office-of-elementary-and-secondary-education",
+      "url": "https://www.usa.gov/agencies/office-of-elementary-and-secondary-education",
+      "name": "Office of Elementary and Secondary Education (OESE)",
+      "description": "The Office of Elementary and Secondary Education administers formula and competitive programs that improve academic outcomes from preschool through high school and supports states and districts in meeting federal education requirements."
+    },
+    {
+      "slug": "office-of-energy-efficiency-and-renewable-energy",
+      "url": "https://www.usa.gov/agencies/office-of-energy-efficiency-and-renewable-energy",
+      "name": "Office of Energy Efficiency and Renewable Energy (EERE)",
+      "description": "The Office of Energy Efficiency and Renewable Energy advances research, development, demonstration, and deployment of clean energy technologies that improve efficiency, reduce emissions, and strengthen U.S. energy security and manufacturing competitiveness."
+    },
+    {
+      "slug": "office-of-environmental-management",
+      "url": "https://www.usa.gov/agencies/office-of-environmental-management",
+      "name": "Office of Environmental Management",
+      "description": "The Office of Environmental Management leads cleanup of Cold War nuclear weapons production and government-sponsored nuclear research sites, manages radioactive waste disposition, and remediates contaminated facilities and soil and groundwater."
+    },
+    {
+      "slug": "office-of-fair-housing-and-equal-opportunity",
+      "url": "https://www.usa.gov/agencies/office-of-fair-housing-and-equal-opportunity",
+      "name": "Office of Fair Housing and Equal Opportunity (FHEO)",
+      "description": "The Office of Fair Housing and Equal Opportunity enforces the Fair Housing Act and related authorities, investigates discrimination complaints, and advances policies that expand equitable access to housing and lending markets."
+    },
+    {
+      "slug": "office-of-fossil-energy-and-carbon-management",
+      "url": "https://www.usa.gov/agencies/office-of-fossil-energy-and-carbon-management",
+      "name": "Office of Fossil Energy and Carbon Management (FECM)",
+      "description": "The Office of Fossil Energy and Carbon Management funds research, development, and demonstration on fossil energy use, carbon management, hydrogen, and related technologies to reduce emissions while maintaining reliable energy systems."
+    },
+    {
+      "slug": "office-of-government-ethics",
+      "url": "https://www.usa.gov/agencies/office-of-government-ethics",
+      "name": "Office of Government Ethics (OGE)",
+      "description": "The Office of Government Ethics promulgates executive-branch ethics regulations, oversees financial disclosure and ethics programs, and advises agencies on conflicts of interest, impartiality, and standards of conduct for public service."
+    },
+    {
+      "slug": "office-of-housing",
+      "url": "https://www.usa.gov/agencies/office-of-housing",
+      "name": "Office of Housing",
+      "description": "The Office of Housing oversees the Federal Housing Administration mortgage insurance programs, regulates FHA-approved lenders and servicers, and administers multifamily and healthcare facility mortgage insurance to support affordable rental housing finance."
+    },
+    {
+      "slug": "office-of-immigrant-and-employee-rights",
+      "url": "https://www.usa.gov/agencies/office-of-immigrant-and-employee-rights",
+      "name": "Office of Immigrant and Employee Rights (IER)",
+      "description": "The Immigrant and Employee Rights Section enforces provisions of the Immigration and Nationality Act that protect U.S. citizens, lawful permanent residents, refugees, and asylees from citizenship-status and national-origin discrimination in hiring."
+    },
+    {
+      "slug": "office-of-investor-education-and-advocacy",
+      "url": "https://www.usa.gov/agencies/office-of-investor-education-and-advocacy",
+      "name": "Office of Investor Education and Advocacy (OIEA)",
+      "description": "The Securities and Exchange Commission’s Office of Investor Education and Advocacy answers public questions, helps retail investors understand market rules, and assists with processing complaints and tips related to SEC-regulated conduct."
+    },
+    {
+      "slug": "office-of-justice-programs",
+      "url": "https://www.usa.gov/agencies/office-of-justice-programs",
+      "name": "Office of Justice Programs (OJP)",
+      "description": "The Office of Justice Programs awards grants and provides research, statistics, and training to state, local, and tribal criminal and juvenile justice agencies to advance community safety, victim services, and evidence-based practice."
+    },
+    {
+      "slug": "office-of-juvenile-justice-and-delinquency-prevention",
+      "url": "https://www.usa.gov/agencies/office-of-juvenile-justice-and-delinquency-prevention",
+      "name": "Office of Juvenile Justice and Delinquency Prevention (OJJDP)",
+      "description": "The Office of Juvenile Justice and Delinquency Prevention supports states and communities with grants, training, and research to strengthen juvenile justice systems, protect youth, and serve at-risk children and families."
+    },
+    {
+      "slug": "office-of-lead-hazard-control-and-healthy-homes",
+      "url": "https://www.usa.gov/agencies/office-of-lead-hazard-control-and-healthy-homes",
+      "name": "Office of Lead Hazard Control and Healthy Homes (OLHCHH)",
+      "description": "The Office of Lead Hazard Control and Healthy Homes funds grants and technical assistance to reduce lead paint hazards and improve housing conditions that affect health in low-income communities nationwide."
+    },
+    {
+      "slug": "office-of-local-defense-community-cooperation",
+      "url": "https://www.usa.gov/agencies/office-of-local-defense-community-cooperation",
+      "name": "Office of Local Defense Community Cooperation",
+      "description": "The Office of Local Defense Community Cooperation provides planning grants and technical assistance to help communities adapt to defense mission changes, base realignments, and installation sustainment and resilience needs."
+    },
+    {
+      "slug": "office-of-management-and-budget",
+      "url": "https://www.usa.gov/agencies/office-of-management-and-budget",
+      "name": "Office of Management and Budget (OMB)",
+      "description": "The Office of Management and Budget coordinates development of the President’s budget, oversees agency performance and management, and reviews regulations, legislative proposals, and executive actions for fiscal and policy coherence."
+    },
+    {
+      "slug": "office-of-manufactured-housing-programs",
+      "url": "https://www.usa.gov/agencies/office-of-manufactured-housing-programs",
+      "name": "Office of Manufactured Housing Programs (OMHP)",
+      "description": "The Office of Manufactured Housing Programs regulates the design and construction of HUD-code manufactured housing, enforces installation and consumer protection standards, and oversees dispute resolution and retailer certification programs."
+    },
+    {
+      "slug": "office-of-minority-health",
+      "url": "https://www.usa.gov/agencies/office-of-minority-health",
+      "name": "Office of Minority Health (OMH)",
+      "description": "The Office of Minority Health leads HHS efforts to improve health outcomes for racial and ethnic minority populations through policy development, partnerships, and programs that advance health equity and culturally competent care."
+    },
+    {
+      "slug": "office-of-multifamily-housing-programs",
+      "url": "https://www.usa.gov/agencies/office-of-multifamily-housing-programs",
+      "name": "Office of Multifamily Housing Programs (MFH)",
+      "description": "The Office of Multifamily Housing Programs administers FHA multifamily mortgage insurance, rental assistance contracts, and asset management for federally assisted housing portfolios through a national network of HUD field offices."
+    },
+    {
+      "slug": "office-of-national-drug-control-policy",
+      "url": "https://www.usa.gov/agencies/office-of-national-drug-control-policy",
+      "name": "Office of National Drug Control Policy (ONDCP)",
+      "description": "The Office of National Drug Control Policy coordinates development and implementation of national drug control strategy, aligns federal agency efforts, and supports data-driven prevention, treatment, recovery, and supply-reduction programs."
+    },
+    {
+      "slug": "office-of-natural-resources-revenue",
+      "url": "https://www.usa.gov/agencies/office-of-natural-resources-revenue",
+      "name": "Office of Natural Resources Revenue (ONRR)",
+      "description": "The Office of Natural Resources Revenue collects, accounts for, and disburses revenue from energy and mineral production on federal and American Indian lands and the Outer Continental Shelf under applicable laws and agreements."
+    },
+    {
+      "slug": "office-of-nuclear-energy",
+      "url": "https://www.usa.gov/agencies/office-of-nuclear-energy",
+      "name": "Office of Nuclear Energy",
+      "description": "The Office of Nuclear Energy advances research, development, and demonstration on nuclear energy technologies to improve reactor safety, security, economics, and waste management in support of clean energy and national security goals."
+    },
+    {
+      "slug": "office-of-personnel-management",
+      "url": "https://www.usa.gov/agencies/office-of-personnel-management",
+      "name": "Office of Personnel Management (OPM)",
+      "description": "The Office of Personnel Management administers civil service policies for the federal government, operates health and retirement benefits programs, maintains hiring systems and personnel records, and supports agency human capital management."
+    },
+    {
+      "slug": "office-of-policy-development-and-research",
+      "url": "https://www.usa.gov/agencies/office-of-policy-development-and-research",
+      "name": "Office of Policy Development and Research (PD&R)",
+      "description": "The Office of Policy Development and Research produces data analysis, policy evaluations, and research publications that inform HUD strategies on housing markets, community development, homelessness, and fair housing."
+    },
+    {
+      "slug": "office-of-postsecondary-education",
+      "url": "https://www.usa.gov/agencies/office-of-postsecondary-education",
+      "name": "Office of Postsecondary Education (OPE)",
+      "description": "The Office of Postsecondary Education administers federal student aid policy, international education programs, and institutional eligibility to expand access to high-quality postsecondary education and strengthen global higher-education engagement."
+    },
+    {
+      "slug": "office-of-refugee-resettlement",
+      "url": "https://www.usa.gov/agencies/office-of-refugee-resettlement",
+      "name": "Office of Refugee Resettlement (ORR)",
+      "description": "The Office of Refugee Resettlement funds states and partners to deliver transitional assistance, social services, and specialized care that promote stability, health, and self-sufficiency for refugees and other eligible populations."
+    },
+    {
+      "slug": "office-of-science-and-technology-policy",
+      "url": "https://www.usa.gov/agencies/office-of-science-and-technology-policy",
+      "name": "Office of Science and Technology Policy (OSTP)",
+      "description": "The Office of Science and Technology Policy advises the President and coordinates federal science and technology policy across agencies on research priorities, innovation ecosystems, STEM education, and emerging technology risks."
+    },
+    {
+      "slug": "office-of-scientific-and-technical-information",
+      "url": "https://www.usa.gov/agencies/office-of-scientific-and-technical-information",
+      "name": "Office of Scientific and Technical Information (OSTI)",
+      "description": "The Office of Scientific and Technical Information preserves and disseminates the results of Department of Energy-sponsored research and development through digital repositories, data products, and open science services."
+    },
+    {
+      "slug": "office-of-servicemember-affairs",
+      "url": "https://www.usa.gov/agencies/office-of-servicemember-affairs",
+      "name": "Office of Servicemember Affairs",
+      "description": "The Consumer Financial Protection Bureau’s Office of Servicemember Affairs monitors military consumer financial issues, coordinates with stakeholders, and advances policies and education that protect service members, veterans, and military families."
+    },
+    {
+      "slug": "office-of-special-counsel",
+      "url": "https://www.usa.gov/agencies/office-of-special-counsel",
+      "name": "Office of Special Counsel (OSC)",
+      "description": "The Office of Special Counsel investigates prohibited personnel practices, enforces the Hatch Act’s political activity rules for covered employees, and protects federal whistleblowers who disclose waste, fraud, and abuse."
+    },
+    {
+      "slug": "office-of-special-education-and-rehabilitative-services",
+      "url": "https://www.usa.gov/agencies/office-of-special-education-and-rehabilitative-services",
+      "name": "Office of Special Education and Rehabilitative Services (OSERS)",
+      "description": "The Office of Special Education and Rehabilitative Services administers special education formula grants, vocational rehabilitation programs, and disability research investments that support students, job seekers, and state systems."
+    },
+    {
+      "slug": "office-of-surface-mining-reclamation-and-enforcement",
+      "url": "https://www.usa.gov/agencies/office-of-surface-mining-reclamation-and-enforcement",
+      "name": "Office of Surface Mining, Reclamation and Enforcement (OSMRE)",
+      "description": "The Office of Surface Mining Reclamation and Enforcement regulates surface coal mining and reclamation, oversees state programs, restores abandoned mine lands, and protects communities and the environment from mining impacts."
+    },
+    {
+      "slug": "office-of-textiles-and-apparel",
+      "url": "https://www.usa.gov/agencies/office-of-textiles-and-apparel",
+      "name": "Office of Textiles and Apparel (OTEXA)",
+      "description": "The Office of Textiles and Apparel analyzes trade in textiles and apparel, implements agreements and preference programs, and advises on policies that affect U.S. industry competitiveness and compliance with international textile rules."
+    },
+    {
+      "slug": "office-of-the-assistant-secretary-for-research-and-technology",
+      "url": "https://www.usa.gov/agencies/office-of-the-assistant-secretary-for-research-and-technology",
+      "name": "Office of the Assistant Secretary for Research and Technology",
+      "description": "The Office of the Assistant Secretary for Research and Technology coordinates Department of Transportation research, statistics, and technology policy, advances intelligent transportation systems, and aligns innovation with safety and infrastructure goals."
+    },
+    {
+      "slug": "office-of-the-comptroller-of-the-currency",
+      "url": "https://www.usa.gov/agencies/office-of-the-comptroller-of-the-currency",
+      "name": "Office of the Comptroller of the Currency (OCC)",
+      "description": "The Office of the Comptroller of the Currency charters, regulates, and supervises national banks and federal branches and agencies of foreign banks to ensure safe, sound, and fair operations in the federal banking system."
+    },
+    {
+      "slug": "office-of-the-director-of-national-intelligence",
+      "url": "https://www.usa.gov/agencies/office-of-the-director-of-national-intelligence",
+      "name": "Office of the Director of National Intelligence (ODNI)",
+      "description": "The Office of the Director of National Intelligence leads integration of foreign and domestic intelligence activities, sets enterprise priorities, and delivers all-source analysis to policymakers while overseeing community-wide security and oversight functions."
+    },
+    {
+      "slug": "office-of-the-federal-register",
+      "url": "https://www.usa.gov/agencies/office-of-the-federal-register",
+      "name": "Office of the Federal Register (OFR)",
+      "description": "The Office of the Federal Register publishes the Federal Register and Code of Federal Regulations, compiles laws in the United States Statutes at Large, and provides authenticated access to federal regulatory and legal documents."
+    },
+    {
+      "slug": "office-of-the-pardon-attorney",
+      "url": "https://www.usa.gov/agencies/office-of-the-pardon-attorney",
+      "name": "Office of the Pardon Attorney",
+      "description": "The Office of the Pardon Attorney reviews clemency petitions, investigates applicants’ records, and prepares recommendations so the President can exercise the pardon power fairly and consistently with governing legal standards."
+    },
+    {
+      "slug": "office-of-weights-and-measures",
+      "url": "https://www.usa.gov/agencies/office-of-weights-and-measures",
+      "name": "Office of Weights and Measures (OWM)",
+      "description": "The Office of Weights and Measures promotes uniformity in laws, regulations, and standards for weights and measures commerce, supports state enforcement programs, and helps ensure equity between buyers and sellers in the marketplace."
+    },
+    {
+      "slug": "office-on-violence-against-women",
+      "url": "https://www.usa.gov/agencies/office-on-violence-against-women",
+      "name": "Office on Violence Against Women (OVW)",
+      "description": "The Office on Violence Against Women awards grants and provides technical assistance to implement the Violence Against Women Act, strengthen criminal justice and victim services responses, and support prevention of gender-based violence."
+    },
+    {
+      "slug": "open-world-leadership-center",
+      "url": "https://www.usa.gov/agencies/open-world-leadership-center",
+      "name": "Open World Leadership Center",
+      "description": "The Open World Leadership Center administers congressional exchange programs that bring emerging leaders from participating countries to the United States for short-term professional delegations focused on accountable governance and civil society."
+    },
+    {
+      "slug": "peace-corps",
+      "url": "https://www.usa.gov/agencies/peace-corps",
+      "name": "Peace Corps",
+      "description": "The Peace Corps sends U.S. volunteers to partner countries for two-year assignments in education, health, agriculture, economic development, and youth engagement that build local capacity and advance mutual understanding between peoples."
+    },
+    {
+      "slug": "pension-benefit-guaranty-corporation",
+      "url": "https://www.usa.gov/agencies/pension-benefit-guaranty-corporation",
+      "name": "Pension Benefit Guaranty Corporation (PBGC)",
+      "description": "The Pension Benefit Guaranty Corporation insures defined benefit pensions in the private sector, pays benefits when plans fail within statutory limits, and promotes pension plan solvency through premiums and oversight."
+    },
+    {
+      "slug": "pentagon-force-protection-agency",
+      "url": "https://www.usa.gov/agencies/pentagon-force-protection-agency",
+      "name": "Pentagon Force Protection Agency (PFPA)",
+      "description": "The Pentagon Force Protection Agency provides law enforcement, physical security, and force protection for Pentagon facilities, personnel, and visitors in coordination with military and federal security partners in the National Capital Region."
+    },
+    {
+      "slug": "pipeline-and-hazardous-materials-safety-administration",
+      "url": "https://www.usa.gov/agencies/pipeline-and-hazardous-materials-safety-administration",
+      "name": "Pipeline and Hazardous Materials Safety Administration (PHMSA)",
+      "description": "The Pipeline and Hazardous Materials Safety Administration develops and enforces safety standards for pipelines and hazardous materials transportation, conducts inspections, and investigates incidents to reduce risk to people and the environment."
+    },
+    {
+      "slug": "postal-regulatory-commission",
+      "url": "https://www.usa.gov/agencies/postal-regulatory-commission",
+      "name": "Postal Regulatory Commission",
+      "description": "The Postal Regulatory Commission provides independent oversight of Postal Service rates, service standards, and financial transparency, reviews market-dominant and competitive product changes, and helps ensure statutory obligations are met."
+    },
+    {
+      "slug": "president-s-council-on-fitness-sports-and-nutrition",
+      "url": "https://www.usa.gov/agencies/president-s-council-on-fitness-sports-and-nutrition",
+      "name": "President's Council on Fitness, Sports and Nutrition (PCSFN)",
+      "description": "The President’s Council on Sports, Fitness and Nutrition promotes national awareness of physical activity and nutrition through partnerships, recognition programs, and public messaging aligned with federal dietary and activity guidelines."
+    },
+    {
+      "slug": "presidio-trust",
+      "url": "https://www.usa.gov/agencies/presidio-trust",
+      "name": "Presidio Trust",
+      "description": "The Presidio Trust is a federal corporation that stewards the Presidio of San Francisco as part of Golden Gate National Recreation Area, balancing historic preservation, environmental restoration, and revenue-generating leases that support the park."
+    },
+    {
+      "slug": "pretrial-services-agency-for-the-district-of-columbia",
+      "url": "https://www.usa.gov/agencies/pretrial-services-agency-for-the-district-of-columbia",
+      "name": "Pretrial Services Agency for the District of Columbia",
+      "description": "The Pretrial Services Agency for the District of Columbia supervises defendants on release, conducts risk assessments and drug testing, and provides reports and services that support fair and efficient pretrial justice in D.C. courts."
+    },
+    {
+      "slug": "privacy-and-civil-liberties-oversight-board",
+      "url": "https://www.usa.gov/agencies/privacy-and-civil-liberties-oversight-board",
+      "name": "Privacy and Civil Liberties Oversight Board (PCLOB)",
+      "description": "The Privacy and Civil Liberties Oversight Board reviews counterterrorism and intelligence programs for privacy and civil liberties protections, conducts oversight investigations, and issues public recommendations to Congress and the executive branch."
+    },
+    {
+      "slug": "public-and-indian-housing",
+      "url": "https://www.usa.gov/agencies/public-and-indian-housing",
+      "name": "Public and Indian Housing (PIH)",
+      "description": "The Office of Public and Indian Housing administers public housing, Housing Choice Vouchers, and Native American housing programs that provide affordable rental assistance, modernize assisted housing, and support resident services and self-sufficiency."
+    },
+    {
+      "slug": "radio-free-asia",
+      "url": "https://www.usa.gov/agencies/radio-free-asia",
+      "name": "Radio Free Asia (RFA)",
+      "description": "Radio Free Asia is a congressionally funded nonprofit broadcaster that provides independent news, reporting, and digital content to audiences in Asian countries where access to free media is restricted or incomplete."
+    },
+    {
+      "slug": "radio-free-europe-and-radio-liberty",
+      "url": "https://www.usa.gov/agencies/radio-free-europe-and-radio-liberty",
+      "name": "Radio Free Europe and Radio Liberty (RFE/RL)",
+      "description": "Radio Free Europe/Radio Liberty is a congressionally funded media organization that produces independent journalism and multimedia reporting for audiences in countries where media freedom is limited or under threat."
+    },
+    {
+      "slug": "railroad-retirement-board",
+      "url": "https://www.usa.gov/agencies/railroad-retirement-board",
+      "name": "Railroad Retirement Board (RRB)",
+      "description": "The Railroad Retirement Board administers retirement, survivor, disability, unemployment, and sickness benefit programs financed by railroad employment taxes for railroad workers and their families under the Railroad Retirement Act."
+    },
+    {
+      "slug": "rehabilitation-services-administration",
+      "url": "https://www.usa.gov/agencies/rehabilitation-services-administration",
+      "name": "Rehabilitation Services Administration (RSA)",
+      "description": "The Rehabilitation Services Administration awards grants to state vocational rehabilitation agencies and supports demonstration projects that expand employment, independent living, and community inclusion for people with disabilities."
+    },
+    {
+      "slug": "risk-management-agency",
+      "url": "https://www.usa.gov/agencies/risk-management-agency",
+      "name": "Risk Management Agency (RMA)",
+      "description": "The Risk Management Agency administers the Federal Crop Insurance Corporation, develops actuarial sound policies with private insurers, and delivers risk management education to help agricultural producers withstand weather and market losses."
+    },
+    {
+      "slug": "rural-business-and-cooperative-service",
+      "url": "https://www.usa.gov/agencies/rural-business-and-cooperative-service",
+      "name": "Rural Business-Cooperative Service",
+      "description": "The Rural Business-Cooperative Service provides loans, loan guarantees, and grants to strengthen rural businesses, cooperatives, utilities, and economic development organizations that create jobs and build resilient local economies."
+    },
+    {
+      "slug": "rural-development",
+      "url": "https://www.usa.gov/agencies/rural-development",
+      "name": "Rural Development",
+      "description": "The Rural Development mission area delivers loans, loan guarantees, and grants across housing, business, and infrastructure programs that support essential services, economic opportunity, and quality of life in rural communities."
+    },
+    {
+      "slug": "rural-housing-service",
+      "url": "https://www.usa.gov/agencies/rural-housing-service",
+      "name": "Rural Housing Service",
+      "description": "The Rural Housing Service provides direct loans, loan guarantees, and rental assistance to develop affordable single-family and multifamily housing and community facilities that meet rural residents’ needs."
+    },
+    {
+      "slug": "rural-utilities-service",
+      "url": "https://www.usa.gov/agencies/rural-utilities-service",
+      "name": "Rural Utilities Service (RUS)",
+      "description": "The Rural Utilities Service finances electric, telecommunications, and water and waste infrastructure in rural areas through loans and grants that improve reliability, public health, and broadband access for unserved and underserved communities."
+    },
+    {
+      "slug": "saint-lawrence-seaway-development-corporation",
+      "url": "https://www.usa.gov/agencies/saint-lawrence-seaway-development-corporation",
+      "name": "Saint Lawrence Seaway Development Corporation (GLS)",
+      "description": "The Saint Lawrence Seaway Development Corporation operates and maintains the St. Lawrence Seaway as a safe, efficient waterway linking the Great Lakes and the Atlantic Ocean for navigation and related purposes."
+    },
+    {
+      "slug": "secret-service",
+      "url": "https://www.usa.gov/agencies/secret-service",
+      "name": "Secret Service",
+      "description": "The Secret Service protects national leaders, visiting dignitaries, and secured facilities, and investigates crimes against U.S. financial and payment systems to safeguard currency and critical infrastructure."
+    },
+    {
+      "slug": "securities-and-exchange-commission",
+      "url": "https://www.usa.gov/agencies/securities-and-exchange-commission",
+      "name": "Securities and Exchange Commission (SEC)",
+      "description": "The Securities and Exchange Commission regulates securities exchanges, broker-dealers, investment advisers, and funds to protect investors, promote fair and orderly markets, and enforce disclosure and anti-fraud standards."
+    },
+    {
+      "slug": "selective-service-system",
+      "url": "https://www.usa.gov/agencies/selective-service-system",
+      "name": "Selective Service System (SSS)",
+      "description": "The Selective Service System maintains registration records and stands ready to classify and deliver personnel to the Armed Forces in a national emergency under laws governing who must register."
+    },
+    {
+      "slug": "small-business-administration",
+      "url": "https://www.usa.gov/agencies/small-business-administration",
+      "name": "Small Business Administration (SBA)",
+      "description": "The Small Business Administration expands access to capital, federal contracting, counseling, and disaster assistance so small businesses can start, grow, and recover while strengthening local economies."
+    },
+    {
+      "slug": "smithsonian-institution",
+      "url": "https://www.usa.gov/agencies/smithsonian-institution",
+      "name": "Smithsonian Institution",
+      "description": "The Smithsonian Institution operates museums, libraries, research centers, and the National Zoo as the nation’s largest museum, education, and research complex advancing scientific and cultural understanding."
+    },
+    {
+      "slug": "social-security-administration",
+      "url": "https://www.usa.gov/agencies/social-security-administration",
+      "name": "Social Security Administration (SSA)",
+      "description": "The Social Security Administration assigns Social Security numbers and administers retirement, survivors, and disability insurance and Supplemental Security Income for people who meet statutory eligibility requirements."
+    },
+    {
+      "slug": "social-security-advisory-board",
+      "url": "https://www.usa.gov/agencies/social-security-advisory-board",
+      "name": "Social Security Advisory Board (SSAB)",
+      "description": "The Social Security Advisory Board advises the President, Congress, and the Social Security Commissioner on the financial condition and policy of Social Security and Supplemental Security Income programs."
+    },
+    {
+      "slug": "southeastern-power-administration",
+      "url": "https://www.usa.gov/agencies/southeastern-power-administration",
+      "name": "Southeastern Power Administration",
+      "description": "The Southeastern Power Administration markets hydroelectric power from federal reservoirs to public bodies and other eligible customers across the southeastern United States under delegated authority."
+    },
+    {
+      "slug": "southwestern-power-administration",
+      "url": "https://www.usa.gov/agencies/southwestern-power-administration",
+      "name": "Southwestern Power Administration",
+      "description": "The Southwestern Power Administration markets hydroelectric power from federal dams to public utilities and other eligible customers across designated states in the South and Southwest."
+    },
+    {
+      "slug": "state-justice-institute",
+      "url": "https://www.usa.gov/agencies/state-justice-institute",
+      "name": "State Justice Institute (SJI)",
+      "description": "The State Justice Institute awards grants and supports initiatives that strengthen state courts, improve justice administration, and foster coordination between state and federal judicial systems."
+    },
+    {
+      "slug": "stennis-center-for-public-service",
+      "url": "https://www.usa.gov/agencies/stennis-center-for-public-service",
+      "name": "Stennis Center for Public Service",
+      "description": "The Stennis Center for Public Service develops leadership in young people preparing for public careers and provides training and professional development for Congress and congressional staff."
+    },
+    {
+      "slug": "substance-abuse-and-mental-health-services-administration",
+      "url": "https://www.usa.gov/agencies/substance-abuse-and-mental-health-services-administration",
+      "name": "Substance Abuse and Mental Health Services Administration (SAMHSA)",
+      "description": "The Substance Abuse and Mental Health Services Administration advances public behavioral health by funding services, disseminating evidence, and guiding policy on substance use disorders, mental illness, and recovery supports."
+    },
+    {
+      "slug": "supreme-court-of-the-united-states",
+      "url": "https://www.usa.gov/agencies/supreme-court-of-the-united-states",
+      "name": "Supreme Court of the United States",
+      "description": "The Supreme Court of the United States is the final judicial authority in the federal system, reviewing lower-court judgments and exercising original jurisdiction in the narrow categories Congress assigns by law."
+    },
+    {
+      "slug": "surface-transportation-board",
+      "url": "https://www.usa.gov/agencies/surface-transportation-board",
+      "name": "Surface Transportation Board (STB)",
+      "description": "The Surface Transportation Board regulates and adjudicates railroad rates, mergers, line sales, and related surface transportation matters to implement federal economic and competition policy."
+    },
+    {
+      "slug": "susquehanna-river-basin-commission",
+      "url": "https://www.usa.gov/agencies/susquehanna-river-basin-commission",
+      "name": "Susquehanna River Basin Commission (SRBC)",
+      "description": "The Susquehanna River Basin Commission is an interstate-federal compact agency that plans and regulates water resources in the basin to balance environmental stewardship with sustainable development."
+    },
+    {
+      "slug": "tax-court",
+      "url": "https://www.usa.gov/agencies/tax-court",
+      "name": "Tax Court",
+      "description": "The United States Tax Court hears disputes over federal income, estate, and certain other taxes before additional payment is generally required, providing a judicial forum independent of the Internal Revenue Service."
+    },
+    {
+      "slug": "tennessee-valley-authority",
+      "url": "https://www.usa.gov/agencies/tennessee-valley-authority",
+      "name": "Tennessee Valley Authority",
+      "description": "The Tennessee Valley Authority is a corporate agency that provides public power, manages the Tennessee River system for navigation and flood control, and promotes regional economic development in its service area."
+    },
+    {
+      "slug": "transportation-security-administration",
+      "url": "https://www.usa.gov/agencies/transportation-security-administration",
+      "name": "Transportation Security Administration (TSA)",
+      "description": "The Transportation Security Administration secures the nation’s transportation systems, including civil aviation and other modes, to protect travelers, workers, and commerce from terrorist and security threats."
+    },
+    {
+      "slug": "u-s-abilityone-commission",
+      "url": "https://www.usa.gov/agencies/u-s-abilityone-commission",
+      "name": "U.S. AbilityOne Commission",
+      "description": "The U.S. AbilityOne Commission administers the AbilityOne Program to create employment for people who are blind or have significant disabilities through the supply of products and services to the federal government."
+    },
+    {
+      "slug": "u-s-access-board",
+      "url": "https://www.usa.gov/agencies/u-s-access-board",
+      "name": "U.S. Access Board",
+      "description": "The U.S. Access Board issues accessibility guidelines and standards for the built environment, transportation, telecommunications equipment, and electronic and information technology to implement federal disability requirements."
+    },
+    {
+      "slug": "u-s-africa-command",
+      "url": "https://www.usa.gov/agencies/u-s-africa-command",
+      "name": "U.S. Africa Command",
+      "description": "The U.S. Africa Command plans and conducts military operations and security cooperation with African partners to advance U.S. interests, regional stability, and collective defense capabilities across the continent."
+    },
+    {
+      "slug": "u-s-agency-for-global-media",
+      "url": "https://www.usa.gov/agencies/u-s-agency-for-global-media",
+      "name": "U.S. Agency for Global Media",
+      "description": "The U.S. Agency for Global Media supervises independent, congressionally chartered international networks that provide news and information about the United States and the world to overseas audiences."
+    },
+    {
+      "slug": "u-s-air-force",
+      "url": "https://www.usa.gov/agencies/u-s-air-force",
+      "name": "U.S. Air Force",
+      "description": "The U.S. Air Force organizes, trains, and equips air and space forces to conduct global power projection, deterrence, air superiority, mobility, intelligence, and support in defense of the United States and its allies."
+    },
+    {
+      "slug": "u-s-air-force-reserve-command",
+      "url": "https://www.usa.gov/agencies/u-s-air-force-reserve-command",
+      "name": "U.S. Air Force Reserve Command",
+      "description": "The Air Force Reserve Command prepares Reserve Airmen who augment active forces with combat-ready units and specialized capabilities for contingency operations and homeland defense missions."
+    },
+    {
+      "slug": "u-s-arctic-research-commission",
+      "url": "https://www.usa.gov/agencies/u-s-arctic-research-commission",
+      "name": "U.S. Arctic Research Commission (USARC)",
+      "description": "The U.S. Arctic Research Commission recommends national Arctic research policy and promotes coordination among federal, state, academic, tribal, and international partners on Arctic science priorities."
+    },
+    {
+      "slug": "u-s-army",
+      "url": "https://www.usa.gov/agencies/u-s-army",
+      "name": "U.S. Army",
+      "description": "The U.S. Army organizes, trains, and equips land forces to conduct unified land operations, deter aggression, and fight and win the nation’s wars as part of the joint force."
+    },
+    {
+      "slug": "u-s-army-corps-of-engineers",
+      "url": "https://www.usa.gov/agencies/u-s-army-corps-of-engineers",
+      "name": "U.S. Army Corps of Engineers",
+      "description": "The U.S. Army Corps of Engineers delivers civil works, military engineering, and environmental services that strengthen national security, reduce flood risk, sustain water resources, and support navigation and recovery."
+    },
+    {
+      "slug": "u-s-botanic-garden",
+      "url": "https://www.usa.gov/agencies/u-s-botanic-garden",
+      "name": "U.S. Botanic Garden",
+      "description": "The United States Botanic Garden cultivates and displays plants to educate the public about horticulture, conservation, and the role of plants in ecosystems and human well-being."
+    },
+    {
+      "slug": "u-s-capitol-police",
+      "url": "https://www.usa.gov/agencies/u-s-capitol-police",
+      "name": "U.S. Capitol Police",
+      "description": "The United States Capitol Police protects the Capitol complex, safeguards Members of Congress, officers, staff, and visitors, and enforces federal law on Capitol grounds through patrol, investigation, and protective operations."
+    },
+    {
+      "slug": "u-s-capitol-visitor-center",
+      "url": "https://www.usa.gov/agencies/u-s-capitol-visitor-center",
+      "name": "U.S. Capitol Visitor Center",
+      "description": "The Capitol Visitor Center welcomes the public to the Capitol, orients visitors to Congress and the building’s history, and supports tours and educational programming under the direction of the legislative branch."
+    },
+    {
+      "slug": "u-s-census-bureau",
+      "url": "https://www.usa.gov/agencies/u-s-census-bureau",
+      "name": "U.S. Census Bureau",
+      "description": "The U.S. Census Bureau conducts the decennial census and ongoing surveys that produce official statistics on the nation’s population, housing, economy, and governments for public and private decision-making."
+    },
+    {
+      "slug": "u-s-central-command",
+      "url": "https://www.usa.gov/agencies/u-s-central-command",
+      "name": "U.S. Central Command (CENTCOM)",
+      "description": "The U.S. Central Command plans and directs military operations across the Middle East, Central and South Asia, and surrounding waters to deter conflict, counter threats, and secure U.S. regional interests."
+    },
+    {
+      "slug": "u-s-chemical-safety-board",
+      "url": "https://www.usa.gov/agencies/u-s-chemical-safety-board",
+      "name": "U.S. Chemical Safety Board (CSB)",
+      "description": "The U.S. Chemical Safety and Hazard Investigation Board investigates catastrophic chemical incidents, identifies root causes, and issues recommendations to prevent future harm to workers and communities."
+    },
+    {
+      "slug": "u-s-citizenship-and-immigration-services",
+      "url": "https://www.usa.gov/agencies/u-s-citizenship-and-immigration-services",
+      "name": "U.S. Citizenship and Immigration Services (USCIS)",
+      "description": "U.S. Citizenship and Immigration Services adjudicates immigration and naturalization benefits, safeguards immigration integrity, and carries out humanitarian protection programs under federal immigration law."
+    },
+    {
+      "slug": "u-s-coast-guard",
+      "url": "https://www.usa.gov/agencies/u-s-coast-guard",
+      "name": "U.S. Coast Guard (USCG)",
+      "description": "The U.S. Coast Guard enforces maritime law, promotes safety and security on U.S. waters, conducts search and rescue, and protects the marine environment as an armed service within the Department of Homeland Security."
+    },
+    {
+      "slug": "u-s-commission-of-fine-arts",
+      "url": "https://www.usa.gov/agencies/u-s-commission-of-fine-arts",
+      "name": "U.S. Commission of Fine Arts",
+      "description": "The U.S. Commission of Fine Arts advises the federal government on design and aesthetics for the nation’s capital, national memorials, and certain federal properties and coinage programs."
+    },
+    {
+      "slug": "u-s-commission-on-international-religious-freedom",
+      "url": "https://www.usa.gov/agencies/u-s-commission-on-international-religious-freedom",
+      "name": "U.S. Commission on International Religious Freedom (USCIRF)",
+      "description": "The U.S. Commission on International Religious Freedom monitors religious freedom abroad, reports on violations, and recommends policy responses to the President, Secretary of State, and Congress."
+    },
+    {
+      "slug": "u-s-commodity-futures-trading-commission",
+      "url": "https://www.usa.gov/agencies/u-s-commodity-futures-trading-commission",
+      "name": "U.S. Commodity Futures Trading Commission (CFTC)",
+      "description": "The Commodity Futures Trading Commission regulates derivatives markets to promote transparency, integrity, and competition while protecting market participants from fraud, manipulation, and abusive practices."
+    },
+    {
+      "slug": "u-s-court-of-appeals-for-veterans-claims",
+      "url": "https://www.usa.gov/agencies/u-s-court-of-appeals-for-veterans-claims",
+      "name": "U.S. Court of Appeals for Veterans Claims",
+      "description": "The United States Court of Appeals for Veterans Claims reviews final Board of Veterans’ Appeals decisions on veterans’ benefits claims under the exclusive jurisdiction Congress has assigned to the court."
+    },
+    {
+      "slug": "u-s-courts-of-appeal",
+      "url": "https://www.usa.gov/agencies/u-s-courts-of-appeal",
+      "name": "U.S. Courts of Appeal",
+      "description": "The U.S. courts of appeals review trial-court and agency decisions to ensure federal law is correctly interpreted and applied, resolving most appeals in the federal judiciary below the Supreme Court."
+    },
+    {
+      "slug": "u-s-customs-and-border-protection",
+      "url": "https://www.usa.gov/agencies/u-s-customs-and-border-protection",
+      "name": "U.S. Customs and Border Protection (CBP)",
+      "description": "U.S. Customs and Border Protection safeguards U.S. borders by facilitating lawful trade and travel while enforcing immigration, customs, and agriculture laws at ports of entry and between them."
+    },
+    {
+      "slug": "u-s-cyber-command",
+      "url": "https://www.usa.gov/agencies/u-s-cyber-command",
+      "name": "U.S. Cyber Command",
+      "description": "U.S. Cyber Command plans and conducts cyberspace operations alongside joint and interagency partners to defend Department of Defense networks and support national security in and through cyberspace."
+    },
+    {
+      "slug": "u-s-department-of-agriculture",
+      "url": "https://www.usa.gov/agencies/u-s-department-of-agriculture",
+      "name": "U.S. Department of Agriculture (USDA)",
+      "description": "The Department of Agriculture advances U.S. agricultural productivity, rural prosperity, nutrition assistance, conservation, forestry, and research to strengthen food systems and natural resources stewardship."
+    },
+    {
+      "slug": "u-s-department-of-commerce",
+      "url": "https://www.usa.gov/agencies/u-s-department-of-commerce",
+      "name": "U.S. Department of Commerce (DOC)",
+      "description": "The Department of Commerce promotes economic growth and innovation by supporting businesses, trade, technology standards, oceans and weather services, and reliable economic and demographic data."
+    },
+    {
+      "slug": "u-s-department-of-defense",
+      "url": "https://www.usa.gov/agencies/u-s-department-of-defense",
+      "name": "U.S. Department of Defense (DOD)",
+      "description": "The Department of Defense provides military forces to deter war, protect national security, and defeat adversaries when directed, overseeing the Army, Navy, Air Force, Marine Corps, and Space Force."
+    },
+    {
+      "slug": "u-s-department-of-education",
+      "url": "https://www.usa.gov/agencies/u-s-department-of-education",
+      "name": "U.S. Department of Education (ED)",
+      "description": "The Department of Education fosters educational excellence and equal opportunity by administering federal student aid, enforcing civil rights in education, and supporting evidence-based improvement across states and schools."
+    },
+    {
+      "slug": "u-s-department-of-energy",
+      "url": "https://www.usa.gov/agencies/u-s-department-of-energy",
+      "name": "U.S. Department of Energy (DOE)",
+      "description": "The Department of Energy advances energy security, environmental responsibility, and scientific discovery by stewarding the nuclear weapons enterprise, managing national labs, and shaping energy and technology policy."
+    },
+    {
+      "slug": "u-s-department-of-health-and-human-services",
+      "url": "https://www.usa.gov/agencies/u-s-department-of-health-and-human-services",
+      "name": "U.S. Department of Health and Human Services (HHS)",
+      "description": "The Department of Health and Human Services protects public health and provides essential human services through Medicare, Medicaid, public health agencies, biomedical research, and social service programs."
+    },
+    {
+      "slug": "u-s-department-of-homeland-security",
+      "url": "https://www.usa.gov/agencies/u-s-department-of-homeland-security",
+      "name": "U.S. Department of Homeland Security (DHS)",
+      "description": "The Department of Homeland Security safeguards the homeland from terrorism and manages border security, immigration enforcement, cybersecurity, disaster response, and critical infrastructure protection missions."
+    },
+    {
+      "slug": "u-s-department-of-housing-and-urban-development",
+      "url": "https://www.usa.gov/agencies/u-s-department-of-housing-and-urban-development",
+      "name": "U.S. Department of Housing and Urban Development (HUD)",
+      "description": "The Department of Housing and Urban Development expands affordable housing, enforces fair housing law, and invests in community development to strengthen urban and rural neighborhoods."
+    },
+    {
+      "slug": "u-s-department-of-justice",
+      "url": "https://www.usa.gov/agencies/u-s-department-of-justice",
+      "name": "U.S. Department of Justice (DOJ)",
+      "description": "The Department of Justice enforces federal law, represents the United States in court, protects civil rights, and ensures the fair and impartial administration of justice across independent litigating components."
+    },
+    {
+      "slug": "u-s-department-of-labor",
+      "url": "https://www.usa.gov/agencies/u-s-department-of-labor",
+      "name": "U.S. Department of Labor (DOL)",
+      "description": "The Department of Labor enforces worker protections on wages, safety, benefits, and equal employment; administers job training and unemployment insurance; and produces labor market statistics for policymakers and the public."
+    },
+    {
+      "slug": "u-s-department-of-state",
+      "url": "https://www.usa.gov/agencies/u-s-department-of-state",
+      "name": "U.S. Department of State (DOS)",
+      "description": "The Department of State conducts U.S. diplomacy, negotiates treaties, manages embassies and consulates, and shapes foreign policy to advance national security, prosperity, and democratic values abroad."
+    },
+    {
+      "slug": "u-s-department-of-the-interior",
+      "url": "https://www.usa.gov/agencies/u-s-department-of-the-interior",
+      "name": "U.S. Department of the Interior (DOI)",
+      "description": "The Department of the Interior stewards federal lands and waters, upholds trust responsibilities to tribes and Alaska Natives, and conserves fish, wildlife, and cultural resources for future generations."
+    },
+    {
+      "slug": "u-s-department-of-the-treasury",
+      "url": "https://www.usa.gov/agencies/u-s-department-of-the-treasury",
+      "name": "U.S. Department of the Treasury",
+      "description": "The Department of the Treasury maintains the nation’s fiscal strength by collecting revenue, managing federal finances and debt, enforcing financial crimes laws, and advancing economic and sanctions policy."
+    },
+    {
+      "slug": "u-s-department-of-transportation",
+      "url": "https://www.usa.gov/agencies/u-s-department-of-transportation",
+      "name": "U.S. Department of Transportation (DOT)",
+      "description": "The Department of Transportation invests in and regulates the safety and performance of aviation, highways, rail, transit, pipelines, and maritime systems that move people and goods nationwide."
+    },
+    {
+      "slug": "u-s-department-of-veterans-affairs",
+      "url": "https://www.usa.gov/agencies/u-s-department-of-veterans-affairs",
+      "name": "U.S. Department of Veterans Affairs (VA)",
+      "description": "The Department of Veterans Affairs delivers health care, benefits, memorial services, and transition support to veterans and their families as the federal government’s principal veterans agency."
+    },
+    {
+      "slug": "u-s-election-assistance-commission",
+      "url": "https://www.usa.gov/agencies/u-s-election-assistance-commission",
+      "name": "U.S. Election Assistance Commission (EAC)",
+      "description": "The U.S. Election Assistance Commission assists state and local election officials, issues voluntary voting-system guidelines, distributes HAVA funds, and collects data to improve election administration and security."
+    },
+    {
+      "slug": "u-s-european-command",
+      "url": "https://www.usa.gov/agencies/u-s-european-command",
+      "name": "U.S. European Command (USEUCOM)",
+      "description": "The U.S. European Command plans and conducts military operations across Europe, portions of the Middle East, and Eurasia alongside allies and partners to deter aggression and defend NATO and U.S. interests."
+    },
+    {
+      "slug": "u-s-fire-administration",
+      "url": "https://www.usa.gov/agencies/u-s-fire-administration",
+      "name": "U.S. Fire Administration (USFA)",
+      "description": "The U.S. Fire Administration, within the Federal Emergency Management Agency, supports the fire and emergency services community through training, data, education, and programs that reduce loss of life and property."
+    },
+    {
+      "slug": "u-s-fleet-forces-command",
+      "url": "https://www.usa.gov/agencies/u-s-fleet-forces-command",
+      "name": "U.S. Fleet Forces Command (USFFC)",
+      "description": "U.S. Fleet Forces Command generates Navy forces, oversees Atlantic readiness, and provides maritime capabilities to combatant commanders for homeland defense, deterrence, and global naval operations."
+    },
+    {
+      "slug": "u-s-geological-survey",
+      "url": "https://www.usa.gov/agencies/u-s-geological-survey",
+      "name": "U.S. Geological Survey (USGS)",
+      "description": "The U.S. Geological Survey is the nation’s primary natural-science agency for impartial data and research on geology, water, biology, energy, minerals, hazards, and environmental change."
+    },
+    {
+      "slug": "u-s-house-of-representatives",
+      "url": "https://www.usa.gov/agencies/u-s-house-of-representatives",
+      "name": "U.S. House of Representatives",
+      "description": "The U.S. House of Representatives is the lower chamber of Congress, where Members elected from states and territories introduce legislation, appropriate funds, and exercise oversight of the executive branch."
+    },
+    {
+      "slug": "u-s-immigration-and-customs-enforcement",
+      "url": "https://www.usa.gov/agencies/u-s-immigration-and-customs-enforcement",
+      "name": "U.S. Immigration and Customs Enforcement (ICE)",
+      "description": "U.S. Immigration and Customs Enforcement enforces customs, trade, and immigration laws through criminal investigations and civil enforcement to protect national security and public safety."
+    },
+    {
+      "slug": "u-s-indo-pacific-command",
+      "url": "https://www.usa.gov/agencies/u-s-indo-pacific-command",
+      "name": "U.S. Indo-Pacific Command (USINDOPACOM)",
+      "description": "The U.S. Indo-Pacific Command plans and executes operations across the Indo-Pacific alongside allies and partners to preserve a free and open region and deter coercion against U.S. interests."
+    },
+    {
+      "slug": "u-s-international-development-finance-corporation",
+      "url": "https://www.usa.gov/agencies/u-s-international-development-finance-corporation",
+      "name": "U.S. International Development Finance Corporation (DFC)",
+      "description": "The U.S. International Development Finance Corporation mobilizes private investment in developing countries through loans, insurance, equity, and technical assistance aligned with U.S. foreign policy and development goals."
+    },
+    {
+      "slug": "u-s-international-trade-commission",
+      "url": "https://www.usa.gov/agencies/u-s-international-trade-commission",
+      "name": "U.S. International Trade Commission (USITC)",
+      "description": "The U.S. International Trade Commission investigates imports’ effects on U.S. industries, advises on trade remedies, and provides independent analysis to Congress and the President on international trade issues."
+    },
+    {
+      "slug": "u-s-marine-corps",
+      "url": "https://www.usa.gov/agencies/u-s-marine-corps",
+      "name": "U.S. Marine Corps",
+      "description": "The U.S. Marine Corps provides rapidly deployable combined-arms forces that conduct expeditionary and amphibious operations worldwide as a separate service within the Department of the Navy."
+    },
+    {
+      "slug": "u-s-marshals-service",
+      "url": "https://www.usa.gov/agencies/u-s-marshals-service",
+      "name": "U.S. Marshals Service (USMS)",
+      "description": "The U.S. Marshals Service protects the federal judiciary, apprehends fugitives, transports prisoners, manages seized assets, and operates witness security programs in support of federal law enforcement."
+    },
+    {
+      "slug": "u-s-military-academy-west-point",
+      "url": "https://www.usa.gov/agencies/u-s-military-academy-west-point",
+      "name": "U.S. Military Academy, West Point",
+      "description": "The U.S. Military Academy educates and trains cadets in leadership, academics, and military skills to commission officers who serve the Army and the nation with character and competence."
+    },
+    {
+      "slug": "u-s-mint",
+      "url": "https://www.usa.gov/agencies/u-s-mint",
+      "name": "U.S. Mint",
+      "description": "The United States Mint manufactures circulating coinage, produces numismatic and bullion coins for collectors and investors, and safeguards the integrity of U.S. currency materials under Treasury policy."
+    },
+    {
+      "slug": "u-s-mission-to-the-united-nations",
+      "url": "https://www.usa.gov/agencies/u-s-mission-to-the-united-nations",
+      "name": "U.S. Mission to the United Nations (USUN)",
+      "description": "The U.S. Mission to the United Nations represents the United States at the U.N. and related agencies, negotiating positions and advancing U.S. foreign policy in multilateral diplomacy."
+    },
+    {
+      "slug": "u-s-national-central-bureau-interpol",
+      "url": "https://www.usa.gov/agencies/u-s-national-central-bureau-interpol",
+      "name": "U.S. National Central Bureau - Interpol",
+      "description": "The U.S. National Central Bureau, INTERPOL Washington, coordinates international law-enforcement cooperation between U.S. agencies and INTERPOL member countries on transnational crime and fugitive matters."
+    },
+    {
+      "slug": "u-s-navy",
+      "url": "https://www.usa.gov/agencies/u-s-navy",
+      "name": "U.S. Navy",
+      "description": "The U.S. Navy maintains maritime forces that project power from the sea, deter adversaries, secure sea lines of communication, and support joint operations in defense of U.S. interests worldwide."
+    },
+    {
+      "slug": "u-s-northern-command",
+      "url": "https://www.usa.gov/agencies/u-s-northern-command",
+      "name": "U.S. Northern Command (USNORTHCOM)",
+      "description": "U.S. Northern Command plans homeland defense and civil-support operations for North America, coordinates with Canada and Mexico, and aligns military assistance to civil authorities for designated contingencies."
+    },
+    {
+      "slug": "u-s-nuclear-regulatory-commission",
+      "url": "https://www.usa.gov/agencies/u-s-nuclear-regulatory-commission",
+      "name": "U.S. Nuclear Regulatory Commission (NRC)",
+      "description": "The Nuclear Regulatory Commission licenses and inspects commercial nuclear power plants, fuel facilities, and medical and industrial uses of nuclear materials to protect public health and the environment."
+    },
+    {
+      "slug": "u-s-parole-commission",
+      "url": "https://www.usa.gov/agencies/u-s-parole-commission",
+      "name": "U.S. Parole Commission",
+      "description": "The U.S. Parole Commission decides parole, supervised release, and related matters for eligible federal and District of Columbia offenders under statutes governing release and reentry."
+    },
+    {
+      "slug": "u-s-patent-and-trademark-office",
+      "url": "https://www.usa.gov/agencies/u-s-patent-and-trademark-office",
+      "name": "U.S. Patent and Trademark Office (USPTO)",
+      "description": "The United States Patent and Trademark Office examines and grants patents, registers trademarks, and administers intellectual property policy that promotes innovation and protects consumers from confusion and fraud."
+    },
+    {
+      "slug": "u-s-postal-inspection-service",
+      "url": "https://www.usa.gov/agencies/u-s-postal-inspection-service",
+      "name": "U.S. Postal Inspection Service",
+      "description": "The U.S. Postal Inspection Service investigates crimes involving the mail, protects postal employees and customers, and enforces laws that safeguard the postal system from fraud and dangerous misuse."
+    },
+    {
+      "slug": "u-s-postal-service",
+      "url": "https://www.usa.gov/agencies/u-s-postal-service",
+      "name": "U.S. Postal Service (USPS)",
+      "description": "The United States Postal Service provides universal mail and package delivery service across the country as an independent establishment of the executive branch funded primarily by postal revenues."
+    },
+    {
+      "slug": "u-s-senate",
+      "url": "https://www.usa.gov/agencies/u-s-senate",
+      "name": "U.S. Senate",
+      "description": "The U.S. Senate is the upper chamber of Congress, where each state elects two Senators who confirm appointments, ratify treaties, try impeachments, and share legislative and oversight responsibilities with the House."
+    },
+    {
+      "slug": "u-s-sentencing-commission",
+      "url": "https://www.usa.gov/agencies/u-s-sentencing-commission",
+      "name": "U.S. Sentencing Commission",
+      "description": "The U.S. Sentencing Commission promulgates federal sentencing guidelines, collects sentencing data, and conducts research to inform Congress, courts, and the executive branch on federal crime and punishment policy."
+    },
+    {
+      "slug": "u-s-southern-command",
+      "url": "https://www.usa.gov/agencies/u-s-southern-command",
+      "name": "U.S. Southern Command (SOUTHCOM)",
+      "description": "U.S. Southern Command conducts security cooperation and operations across Central and South America and the Caribbean with partner nations to counter transnational threats and protect U.S. regional interests."
+    },
+    {
+      "slug": "u-s-space-command",
+      "url": "https://www.usa.gov/agencies/u-s-space-command",
+      "name": "U.S. Space Command",
+      "description": "U.S. Space Command conducts operations in and from space, synchronizes joint space forces, and deters conflict while protecting U.S. and allied space capabilities essential to national security."
+    },
+    {
+      "slug": "u-s-special-operations-command",
+      "url": "https://www.usa.gov/agencies/u-s-special-operations-command",
+      "name": "U.S. Special Operations Command",
+      "description": "U.S. Special Operations Command oversees planning, readiness, and global employment of special operations forces from the military services under a unified command structure for sensitive missions."
+    },
+    {
+      "slug": "u-s-strategic-command",
+      "url": "https://www.usa.gov/agencies/u-s-strategic-command",
+      "name": "U.S. Strategic Command (USSTRATCOM)",
+      "description": "U.S. Strategic Command deters strategic attack against the United States and its allies, operates nuclear command and control, and integrates space and cyber capabilities assigned for global strike and deterrence missions."
+    },
+    {
+      "slug": "u-s-trade-and-development-agency",
+      "url": "https://www.usa.gov/agencies/u-s-trade-and-development-agency",
+      "name": "U.S. Trade and Development Agency (USTDA)",
+      "description": "The U.S. Trade and Development Agency helps overseas project sponsors adopt U.S. solutions by funding feasibility studies, technical assistance, and reverse trade missions that open export opportunities."
+    },
+    {
+      "slug": "u-s-trade-representative",
+      "url": "https://www.usa.gov/agencies/u-s-trade-representative",
+      "name": "U.S. Trade Representative",
+      "description": "The Office of the U.S. Trade Representative develops and coordinates U.S. trade policy, negotiates agreements, and enforces trade commitments to open markets and defend American workers and businesses."
+    },
+    {
+      "slug": "u-s-transportation-command",
+      "url": "https://www.usa.gov/agencies/u-s-transportation-command",
+      "name": "U.S. Transportation Command (USTRANSCOM)",
+      "description": "U.S. Transportation Command directs global mobility operations, integrating air, land, and sea lift to move forces and sustainment for the joint force and supported civilian agencies."
+    },
+    {
+      "slug": "u-s-trustee-program",
+      "url": "https://www.usa.gov/agencies/u-s-trustee-program",
+      "name": "U.S. Trustee Program",
+      "description": "The U.S. Trustee Program oversees administration of federal bankruptcy cases, monitors parties and trustees, and combats fraud and abuse to preserve the integrity of the bankruptcy system."
+    },
+    {
+      "slug": "udall-foundation",
+      "url": "https://www.usa.gov/agencies/udall-foundation",
+      "name": "Udall Foundation",
+      "description": "The Morris K. Udall and Stewart L. Udall Foundation supports scholarship, conflict resolution, and Native Nations programs that strengthen environmental stewardship, collaborative decision-making, and leadership in public service."
+    },
+    {
+      "slug": "under-secretary-for-political-affairs",
+      "url": "https://www.usa.gov/agencies/under-secretary-for-political-affairs",
+      "name": "Under Secretary for Political Affairs",
+      "description": "The Under Secretary of State for Political Affairs directs regional and bilateral policy through the Department’s geographic bureaus and coordinates diplomatic strategy across crises and international institutions."
+    },
+    {
+      "slug": "under-secretary-for-public-diplomacy-and-public-affairs",
+      "url": "https://www.usa.gov/agencies/under-secretary-for-public-diplomacy-and-public-affairs",
+      "name": "Under Secretary for Public Diplomacy and Public Affairs",
+      "description": "The Under Secretary for Public Diplomacy and Public Affairs leads State Department efforts to explain U.S. policy abroad and engage foreign publics through strategic communication and educational exchange."
+    },
+    {
+      "slug": "unified-combatant-commands",
+      "url": "https://www.usa.gov/agencies/unified-combatant-commands",
+      "name": "Unified Combatant Commands",
+      "description": "Unified combatant commands integrate forces from multiple services under single commanders who plan and execute military operations across geographic regions or functional missions worldwide."
+    },
+    {
+      "slug": "uniformed-services-university-of-the-health-sciences",
+      "url": "https://www.usa.gov/agencies/uniformed-services-university-of-the-health-sciences",
+      "name": "Uniformed Services University of the Health Sciences (USU)",
+      "description": "The Uniformed Services University educates and prepares uniformed health professionals and scientists who support the medical readiness of the Armed Forces and national health security missions."
+    },
+    {
+      "slug": "united-states-institute-of-peace",
+      "url": "https://www.usa.gov/agencies/united-states-institute-of-peace",
+      "name": "United States Institute of Peace (USIP)",
+      "description": "The United States Institute of Peace advances conflict analysis, mediation, and peacebuilding practice through research, training, and programs that help prevent and resolve violent conflict abroad."
+    },
+    {
+      "slug": "veterans-benefits-administration",
+      "url": "https://www.usa.gov/agencies/veterans-benefits-administration",
+      "name": "Veterans Benefits Administration (VBA)",
+      "description": "The Veterans Benefits Administration adjudicates claims for disability compensation, education, home loans, insurance, and other earned benefits and helps veterans access available support."
+    },
+    {
+      "slug": "veterans-employment-and-training-service",
+      "url": "https://www.usa.gov/agencies/veterans-employment-and-training-service",
+      "name": "Veterans' Employment and Training Service (VETS)",
+      "description": "The Veterans’ Employment and Training Service promotes veterans’ employment rights, funds transition services, and partners with employers and workforce agencies to connect veterans to meaningful careers."
+    },
+    {
+      "slug": "veterans-health-administration",
+      "url": "https://www.usa.gov/agencies/veterans-health-administration",
+      "name": "Veterans Health Administration (VHA)",
+      "description": "The Veterans Health Administration operates the nation’s largest integrated health system, delivering primary, specialty, and extended care to eligible veterans in facilities and through community partnerships."
+    },
+    {
+      "slug": "voice-of-america",
+      "url": "https://www.usa.gov/agencies/voice-of-america",
+      "name": "Voice of America (VOA)",
+      "description": "Voice of America provides accurate, objective news and information in multiple languages to global audiences on behalf of the United States as part of the U.S. Agency for Global Media network."
+    },
+    {
+      "slug": "wage-and-hour-division",
+      "url": "https://www.usa.gov/agencies/wage-and-hour-division",
+      "name": "Wage and Hour Division (WHD)",
+      "description": "The Wage and Hour Division enforces federal wage, hour, child labor, and family and medical leave laws to ensure workers receive lawful pay and protections in workplaces nationwide."
+    },
+    {
+      "slug": "washington-headquarters-services",
+      "url": "https://www.usa.gov/agencies/washington-headquarters-services",
+      "name": "Washington Headquarters Services (WHS)",
+      "description": "Washington Headquarters Services provides administrative, security, real-property, and support services that enable the Office of the Secretary of Defense and defense agencies in the National Capital Region."
+    },
+    {
+      "slug": "western-area-power-administration",
+      "url": "https://www.usa.gov/agencies/western-area-power-administration",
+      "name": "Western Area Power Administration (WAPA)",
+      "description": "The Western Area Power Administration markets hydroelectric power and transmission from federal projects to public utilities and other eligible customers across much of the central and western United States."
+    },
+    {
+      "slug": "white-house",
+      "url": "https://www.usa.gov/agencies/white-house",
+      "name": "White House",
+      "description": "The White House is the official residence and principal workplace of the President, housing the Executive Office of the President and supporting the chief executive’s conduct of national and international affairs."
+    },
+    {
+      "slug": "wireless-telecommunications-bureau",
+      "url": "https://www.usa.gov/agencies/wireless-telecommunications-bureau",
+      "name": "Wireless Telecommunications Bureau (WTB)",
+      "description": "The Wireless Telecommunications Bureau develops and implements Federal Communications Commission policies for wireless spectrum licensing, competitive markets, and technical rules governing mobile and fixed wireless services."
+    },
+    {
+      "slug": "women-s-bureau",
+      "url": "https://www.usa.gov/agencies/women-s-bureau",
+      "name": "Women's Bureau",
+      "description": "The Women’s Bureau leads Department of Labor policy on working women by researching labor issues, promoting equitable workplaces, and advancing programs that improve job quality and economic security."
+    },
+    {
+      "slug": "woodrow-wilson-international-center-for-scholars",
+      "url": "https://www.usa.gov/agencies/woodrow-wilson-international-center-for-scholars",
+      "name": "Woodrow Wilson International Center for Scholars",
+      "description": "The Woodrow Wilson International Center for Scholars is a nonpartisan institute that convenes research and dialogue on global policy questions to inform policymakers, scholars, and the public."
+    }
+  ]
+}

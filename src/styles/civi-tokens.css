@@ -1,0 +1,25 @@
+/* Shared design tokens for civi.work UI (header, future surfaces) */
+:root {
+  --civi-header-fill: #a23737;
+  --civi-header-stroke: #6f3331;
+  /* Figma Header frame (36:1856) width */
+  --civi-header-max-width: 1440px;
+  --civi-nav-active-line: #d9e8f6;
+  --civi-ui-font: "Public Sans", "Source Sans Pro Web", "Helvetica Neue", Helvetica, Arial,
+    sans-serif;
+  --civi-serif: "Merriweather", "Merriweather Web", Georgia, "Times New Roman", Times, serif;
+  --civi-text-muted-on-header: rgba(255, 255, 255, 0.8);
+  --civi-search-placeholder: #757575;
+  /* Hero (Figma frame 36:806) */
+  --civi-hero-bg: #274863;
+  --civi-hero-primary: #005ea2;
+  --civi-hero-search-chip-bg: #f3f3f3;
+  --civi-hero-title-max-width: 616px;
+  --civi-hero-card-max-width: 960px;
+  /* Figma 36:809 */
+  --civi-hero-card-min-width: 800px;
+  /* Browse grid (Figma 36:822) */
+  --civi-browse-card-border: #dfe1e2;
+  --civi-browse-view-all-border: #f3f3f3;
+  --civi-browse-meta: #757575;
+}
